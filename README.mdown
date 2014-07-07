@@ -1,0 +1,16 @@
+Japanese UseR! list
+=====
+
+## UseR! group
+
+| Name | Organizer | Place |
+|------|-----------|-------|
+| [Kashiwa.R](http://www14.atwiki.jp/kashiwar/) | [@Acafe_info](http://twitter.com/Acafe_info) | Kashiwa, Chiba |
+| [Nagoya.R](http://corpus-study.info/nagoyar/) | [@sakeue](http://twitter.com/sakaue) | Nagoya, Aichi |
+| [Okinawa.R](http://www.okada.jp.org/RWiki/?%B2%AD%C6%ECR%C6%B1%B9%A5%B2%F1) (沖縄R同好会) | - | Naha, Okinawa |
+| [Osaka.R](https://sites.google.com/site/osakarwiki/) | [@phosphor_m](http://twitter.com/phosphor_m) | Osaka, Osaka |
+| [Sapporo.R](http://kokucheese.com/event/index/88324/) | [@sakaue](http://twitter.com/sakaue) | Sapporo, Hokkaido |
+| [Shiga.R](http://atnd.org/events/5939) | - | - |
+| [Tokyo.R](https://groups.google.com/forum/#!forum/r-study-tokyo) | [@yokkuns](http://twitter.com/yokkuns) | Tokyo, Tokyo |
+| [Tsukuba.R](http://seesaawiki.jp/w/syou6162/) | - | - |
+| [Yokohama.R](https://github.com/YokohamaR/yokohama.r) | [@uribo](http://twitter.com/u_ribo) | Yokohama, Kanagawa |
