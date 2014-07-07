@@ -1,0 +1,26 @@
+Osaka.R
+=====
+
+## Information
+
+https://sites.google.com/site/osakarwiki/
+
+## Meetups
+
+### Osaka.R#2
+
+Date: 2010-04-09
+
+ref) https://sites.google.com/site/osakarwiki/home/osaka-r-2
+
+| Topic | Speaker | Link |
+|-------|---------|------|
+| 初心者講習会 | - | [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjQ4NDc5OTA0N2I2MWI4OWQ) |
+| データハンドリング中級編 | @phosphor_m | [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjUxNzBiMTExNGI1YTE3MTA) |
+| プロット入門 | @phosphor_m | [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjRiMWM2YTRhMmFkMDIyMDM) |
+| GUI on R-RExcelとDeducer- | @phosphor_m | [pdf](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM1YzJhZGVkZDU5M2YxYTA) |
+| R言語による検定入門 | @langstat | [zip](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM5M2M3MmRhMGVjMzYyN2Y) |
+
+### Osaka.R#1
+
+Date: 2010-03-04
