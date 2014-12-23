@@ -5,7 +5,9 @@ Japanese UseR! list
 
 | Name | Organizer | Place |
 |------|-----------|-------|
+| Hiroshima.R (HijiyamaR) | [@kazutan](http://twitter.com/kazutan) | Hiroshima, Hiroshima |
 | [Kashiwa.R](http://www14.atwiki.jp/kashiwar/) | [@Acafe_info](http://twitter.com/Acafe_info) | Kashiwa, Chiba |
+| [Kobe.R](http://kobexr.doorkeeper.jp) | [@h_kawahara](https://twitter.com/h_kawahara), [@florets1](https://twitter.com/florets1)  | Kobe, Kobe |
 | [Nagoya.R](http://corpus-study.info/nagoyar/) | [@sakeue](http://twitter.com/sakaue) | Nagoya, Aichi |
 | [Okinawa.R](http://www.okada.jp.org/RWiki/?%B2%AD%C6%ECR%C6%B1%B9%A5%B2%F1) (沖縄R同好会) | - | Naha, Okinawa |
 | [Osaka.R](https://sites.google.com/site/osakarwiki/) | [@phosphor_m](http://twitter.com/phosphor_m) | Osaka, Osaka |
