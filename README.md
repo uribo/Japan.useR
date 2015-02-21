@@ -1,5 +1,34 @@
-Japanese UseR! list
-=====
+# Japan.useR
+
+Japanese R user community materials and information datasets.
+
+**this pkg more information** provide to [my repo](https://github.com/uribo/talk_150221tokyor46).
+
+## Installation
+
+From GitHub
+
+```r
+devtools::install_github("uribo/Japan.useR")
+```
+
+## Usage
+
+```r
+library("Japan.useR")
+```
+
+List up presentation slide
+
+```r
+materials("Tokyo.R", number = 1, session = 1)
+```
+
+View materials (arguments `browse` = TRUE)
+
+```r
+materials("Tokyo.R", number = 45, session = 5, browse = TRUE) # Open web browser
+```
 
 ## UseR! group
 
@@ -16,3 +45,6 @@ Japanese UseR! list
 | [Tokyo.R](https://groups.google.com/forum/#!forum/r-study-tokyo) | [@yokkuns](http://twitter.com/yokkuns) | Tokyo, Tokyo |
 | [Tsukuba.R](http://seesaawiki.jp/w/syou6162/) | - | - |
 | [Yokohama.R](https://github.com/YokohamaR/yokohama.r) | [@uribo](http://twitter.com/u_ribo) | Yokohama, Kanagawa |
+
+## Acknowledgments
+
