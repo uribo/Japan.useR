@@ -1,0 +1,17 @@
+Package: Japan.useR
+Type: Package
+Title: Japanese useR Community
+Version: 0.1.0
+Date: 2015-02-21
+Authors@R: person("Shinya", "Uryu", email = paste("suika1127", "gmail.com", sep = "@"), role =
+    c("aut", "cre"))
+Description: not yet
+URL: https://github.com/uribo/Japan.useR
+BugReports: https://github.com/uribo/Japan.useR/issues
+License: MIT
+Depends:
+    R (>= 3.1.0)
+Imports:
+    dplyr
+LazyData: TRUE
+    
