@@ -1,7 +1,7 @@
-#' Japanese useR Community's material
+#' Broswe Japanese useR Community's material
 #' 
 #' @import dplyr
-#' @param community
+#' @param community a character string. select useR community for one of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".
 #' @param number
 #' @param session
 #' @param browse a logical value indicading wheater the browse material.
@@ -11,18 +11,18 @@ materials <- function (community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "N
                       number = NULL, session = NULL, browse = FALSE) {
   community <- match.arg(community)
   res <- filter(JRSlide, Community == community)
-   if (!is.null(number)) { # NULL でなければ、NULLであれば
+   if (!is.null(number)) { # If when number is NULL else NULL
      if (!is.null(session)) {
        if (browse == FALSE) {
          res <- filter(res, Number == number, Session == session)
        } else {
          res <- filter(res, Number == number, Session == session)
-         browseURL(paste(res$Slide)) # すべて指定
+         browseURL(paste(res$Slide)) # When specified all arguments
        }
-       return(res) # どちらも指定、browse = F
+       return(res)
      }
      res <- filter(res, Number == number)
      return(res)
    }
-   return(res) # Community だけを指定
+   return(res) # select Community
 }

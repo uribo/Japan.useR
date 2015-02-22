@@ -2,14 +2,14 @@
 % Please edit documentation in R/materials.R
 \name{materials}
 \alias{materials}
-\title{Japanese useR Community's material}
+\title{Broswe Japanese useR Community's material}
 \usage{
 materials(community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R",
   "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yokohama.R"),
   number = NULL, session = NULL, browse = FALSE)
 }
 \arguments{
-\item{community}{}
+\item{community}{a character string. select useR community for one of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".}
 
 \item{number}{}
 
@@ -18,7 +18,7 @@ materials(community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R",
 \item{browse}{a logical value indicading wheater the browse material.}
 }
 \description{
-Japanese useR Community's material
+Broswe Japanese useR Community's material
 }
 \examples{
 materials(community = "Tokyo.R")
