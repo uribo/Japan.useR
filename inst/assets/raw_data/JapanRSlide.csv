@@ -57,6 +57,20 @@ Number,Session,Speaker,Title,Slide,Community
 1,7,t_yamazaki021,Rを使ったBAモデルのシミュレーション)(仮) ,NA,Tsukuba.R
 1,8,hogelog,はじめてのR ―恋するRはせつなくてLispを想うとついlambdaしちゃうの― ,NA,Tsukuba.R
 1,9,syou6162,apply familyの紹介,NA,Tsukuba.R
+46,1,akiaki5516,10分で分かるr言語入門,http://www.slideshare.net/akiaki5516/10rver2-upload,Tokyo.R
+46,2,所沢義男,Rはオワコン,NA,Tokyo.R
+46,3,housecat442,重回帰分析で頑張りたい,http://www.slideshare.net/shotayasui/ss-44961623,Tokyo.R
+46,4,berobero11,順序データでもベイズモデリング,http://www.slideshare.net/berobero11/20150221-44954159,Tokyo.R
+46,5,Hiro_macchan,Logistic regression and Causal Effect Estimation,http://rpubs.com/Hiro_macchan/60861,Tokyo.R
+46,6,yutannihilation,htmlwidgetsでJavascriptの可視化をRに,https://rpubs.com/yutannihilation/how-to-use-htmlwidgets,Tokyo.R
+46,7,sato_mitsunori,cyREST入門～RとCytoscapeのAPI連携～,http://www.slideshare.net/MitsunoriSato/tokyor46-trycy-rest,Tokyo.R
+46,8,__nakamichi__,R6パッケージの紹介：機能と実装,http://www.slideshare.net/__nakamichi__/r6-upload,Tokyo.R
+46,9,teramonagi,ULT x 3,http://www.slideshare.net/teramonagi/ultra-lightning-talk-3,Tokyo.R
+46,10,tetsuroito,俺とRとディリクレ分布,http://www.slideshare.net/tetsuroito/20150221-tokyo-r-lt-r,Tokyo.R
+46,11,kikurage1001,Cox比例ハザードモデルとその周辺,http://www.slideshare.net/kikurage1001/cox-44956683,
+46,12,gepuro,最強のハードディスクはどれだ？,http://www.slideshare.net/gepuro/ss-44957184,
+46,13,u_ribo,Japan.R補完計画,http://www.slideshare.net/uribo/japanrtokyor46lt,
+46,14,kos59125,Rにもしかして機能を追加した話,http://blog.recyclebin.jp/archives/4439,
 45,1,doradora09,10分で分かるR言語入門3分バージョン,http://www.slideshare.net/akiaki5516/10r-150117upload,Tokyo.R
 45,2,aad34210,続はじめてのR,http://www.slideshare.net/aad34210/tokyo-r45-beginner2,Tokyo.R
 45,3,yokkuns,Rによる回帰分析 ,NA,Tokyo.R
