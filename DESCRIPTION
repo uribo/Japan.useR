@@ -1,8 +1,8 @@
 Package: Japan.useR
 Type: Package
 Title: Japanese useR Community
-Version: 0.1.0
-Date: 2015-02-21
+Version: 0.1.1
+Date: 2015-02-23
 Authors@R: person("Shinya", "Uryu", email = paste("suika1127", "gmail.com", sep = "@"), role =
     c("aut", "cre"))
 Description: not yet
