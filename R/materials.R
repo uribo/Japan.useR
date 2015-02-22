@@ -24,5 +24,5 @@ materials <- function (community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "N
      res <- filter(res, Number == number)
      return(res)
    }
-   return(head(res)) # Community だけを指定
+   return(res) # Community だけを指定
 }
