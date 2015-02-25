@@ -9,8 +9,8 @@
 #' @export
 materials <- function (community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yokohama.R"), 
                       number = NULL, session = NULL, browse = FALSE) {
-  community <- match.arg(community)
-  res <- filter(JRSlide, Community == community)
+  community <- match.arg(community, several.ok = TRUE)
+  res <- filter(JRSlide, Community %in% community)
    if (!is.null(number)) { # If when number is NULL else NULL
      if (!is.null(session)) {
        if (browse == FALSE) {
