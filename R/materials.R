@@ -1,9 +1,9 @@
 #' Broswe Japanese useR Community's material
 #' 
 #' @import dplyr
-#' @param community a character string. select useR community for one of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".
-#' @param number
-#' @param session
+#' @param community a character string. select useR community for one or some of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".
+#' @param number chose community's number.
+#' @param session return to specified session.
 #' @param browse a logical value indicading wheater the browse material.
 #' @examples materials(community = "Tokyo.R")
 #' @export

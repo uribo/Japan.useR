@@ -9,11 +9,11 @@ materials(community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R",
   number = NULL, session = NULL, browse = FALSE)
 }
 \arguments{
-\item{community}{a character string. select useR community for one of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".}
+\item{community}{a character string. select useR community for one or some of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".}
 
-\item{number}{}
+\item{number}{chose community's number.}
 
-\item{session}{}
+\item{session}{return to specified session.}
 
 \item{browse}{a logical value indicading wheater the browse material.}
 }
