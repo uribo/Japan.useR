@@ -1,11 +1,10 @@
 #' Listup favorite spearker's material
 #' 
 #' @import dplyr
-#' @param id
-#' @param max
-#' @examples speaker(id = "u_ribo", max = 2)
+#' @param id user name
+#' @examples speaker(id = "u_ribo")
 #' @export
-speaker <- function (id = NULL, max = 5) {
+speaker <- function (id = NULL) {
   tmp <- filter(JRSlide, Speaker == id)
-  tmp[1:max, ]
+  tmp[1:length(tmp), ]
 }

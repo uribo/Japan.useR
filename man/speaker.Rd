@@ -4,17 +4,15 @@
 \alias{speaker}
 \title{Listup favorite spearker's material}
 \usage{
-speaker(id = NULL, max = 5)
+speaker(id = NULL)
 }
 \arguments{
-\item{id}{}
-
-\item{max}{}
+\item{id}{user name}
 }
 \description{
 Listup favorite spearker's material
 }
 \examples{
-speaker(id = "u_ribo", max = 2)
+speaker(id = "u_ribo")
 }
 
