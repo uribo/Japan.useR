@@ -1,8 +1,8 @@
 Package: Japan.useR
 Type: Package
 Title: Japanese R user community materials and information datasets
-Version: 0.1.2
-Date: 2015-02-26
+Version: 0.1.3
+Date: 2015-03-01
 Authors@R: person("Shinya", "Uryu", email = paste("suika1127", "gmail.com", sep = "@"), role =
     c("aut", "cre"))
 Description: not yet
