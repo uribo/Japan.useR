@@ -1,76 +1,586 @@
 Number,Session,Speaker,Title,Slide,Topic,Community
-8,1,yag_ays,For the Interactive design in R,http://www.slideshare.net/yag_ays/tsukubar8,,Tsukuba.R
-8,2,toddler2009,Rで情報幾何 ,NA,,Tsukuba.R
-8,3,y_benjo,俺のuseR!解説が45分でわかるわけがない ,http://www.slideshare.net/ybenjo/user2010-matome,,Tsukuba.R
-8,4,twittoru,R OAuth for twitteR,NA,,Tsukuba.R
-8,5,yag_ays,R+ESS,http://www.slideshare.net/yag_ays/ess-2558366,,Tsukuba.R
-8,6,mickey24,Extend R with Rcpp!!!,http://www.slideshare.net/mickey24/extend-r-with-rcpp,,Tsukuba.R
-7,1,wakuteka,Beautiful woRld,http://www.slideshare.net/wakuteka/tsukubar7,,Tsukuba.R
-7,2,yag_ays,Rを用いた解析の実例 - Project *ぶろったん,http://www.slideshare.net/yag_ays/r-project,,Tsukuba.R
-7,3,Mozk_,environmentとマクロもどき,NA,,Tsukuba.R
-7,4,ikakura7188,ggplot2の外見をExcelのグラフ機能を使ってぱくってみた,http://www.slideshare.net/ikakura7188/tukuba-r7,,Tsukuba.R
-7,5,niam,en.newikipedia.org,NA,,Tsukuba.R
-7,6,yokkuns,R勉強会東京 - Tokyo.Rの紹介,NA,,Tsukuba.R
-7,7,jj0c_0jjj,Rによるマイクロアレイデータの解析 (RubyでRを使ってみた),NA,,Tsukuba.R
-7,8,hiratake55,『R-webUI の紹介』WebブラウザやモバイルガジェットからRを使う方法について,NA,,Tsukuba.R
-7,9,hamadakoichi,Tokyo.Webminingの紹介,NA,,Tsukuba.R
-7,10,n_shuyo,普通のプログラミング言語R(仮),NA,,Tsukuba.R
-7,11,y_benjo,きかいがくしゅう！,NA,,Tsukuba.R
-7,12,mickey24,Parallel Computing in R,NA,,Tsukuba.R
-6,1,syou6162,一粒で3回おいしいggplot2,http://www.slideshare.net/syou6162/tsukuba,,Tsukuba.R
-6,2,wakuteka,「大規模データ処理に便利そうなコマンドを覚えよう！ - わたしといるかとうみすずめ」 ,NA,,Tsukuba.R
-6,3,twittoru,R<del>uby</del>で学ぶ 奇妙な 関数型 プログラミング言語,http://www.slideshare.net/tor_ozaki/rltdelubyltdel,,Tsukuba.R
-6,4,y_benjo,とある言語の対疎行列,http://www.slideshare.net/ybenjo/rs-anti-sparseness-2558377,,Tsukuba.R
-6,5,mickey24,Extend R with C!!!,NA,,Tsukuba.R
-6,6,yag_ays,Diagramパッケージを使ってみる,http://www.slideshare.net/yag_ays/diagram-2557036,,Tsukuba.R
-6,7,ikakura7188,Rをはじめたばかりの僕が牛さんのデータを解析するのにRを使ってるよ!!かわいいうしさんの写真もあるよ!,NA,,Tsukuba.R
-5,1,yag_ays,3分で出来るRの回帰分析+α,NA,,Tsukuba.R
-5,2,y_benjo,とあるサイトの禁書目録 Rでアクセスログを触るというアレについて,http://www.slideshare.net/ybenjo/a-certain-websites-index,,Tsukuba.R
-5,3,bonohu,DBCLSと統合データベースプロジェクト,NA,,Tsukuba.R
-5,4,mickey24,Animation with R ,http://www.slideshare.net/mickey24/r-de-animation,,Tsukuba.R
-5,5,hiratake55 ,Windowsユーザも賢くRを使おう,NA,,Tsukuba.R
-4,1,wakuteka,Rで学ぶ遺伝子多型解析,NA,,Tsukuba.R
-4,2,hiratake55,Rで項目応答理論 ,NA,,Tsukuba.R
-4,3,syou6162,Rを高速化するための10の方法(仮),http://d.hatena.ne.jp/syou6162/20090301/1235890688,,Tsukuba.R
-4,4,y_benjo,RでTwitterのクラスタをあぶりだしてみた,http://www.slideshare.net/guest91c5ac/twitters-social-network-analysis,,Tsukuba.R
-4,5,bonohu,テキストマイニングとDNA配列解析,NA,,Tsukuba.R
-4,6,flashingwind,乱数と行列計算の言語としてRを使う(PageRank、NNなど) ,NA,,Tsukuba.R
-4,7,gfx,CRANの歩き方,NA,,Tsukuba.R
-4,8,riywo,Perlもいいんじゃない？,http://www.slideshare.net/riywo/tsukubar4,,Tsukuba.R
-4,9,mickey24,Rで学ぶBrainf*ck,NA,,Tsukuba.R
-3,1,wakuteka,Rによるバイオインフォマティクスデータ解析,NA,,Tsukuba.R
-3,2,syou6162,Rで学ぶシミュレーション入門 ,NA,,Tsukuba.R
-3,3,zgmf-x20a,useR!2008報告 ,NA,,Tsukuba.R
-3,4,sayamatcher,Rを使って論文の図を書いた実例の紹介,NA,,Tsukuba.R
-3,5,twittoru,それRじゃなくてもできるよ~多言語と組合せて最高にキモいコードを書こう!~,NA,,Tsukuba.R
-2,1,syou6162,アクセスログ解析をやってみよう,http://d.hatena.ne.jp/syou6162/20080914/1221307840,,Tsukuba.R
-2,2,syou6162,もうちょっと高度なグラフィックス特集,http://d.hatena.ne.jp/syou6162/20080914/1221307975,,Tsukuba.R
-2,3,y_benjo,やるおで学ぶSVM with R,http://www.slideshare.net/guest8ee130/svmr-with-yaruo-presentation,,Tsukuba.R
-2,4,twittoru,プログラミングを9ミリも知らない俺がRでProject Eulerに挑戦してみた,http://www.slideshare.net/tor_ozaki/challenge-the-project-euler-with-r-presentation/,,Tsukuba.R
-2,5,wakuteka,VSS(Vim Speaks Statistics),http://www.slideshare.net/wakuteka/tsukuba-r2-presentation,,Tsukuba.R
-1,1,syou6162,Tsukuba.Rの概要,http://d.hatena.ne.jp/syou6162/20080624/1214212893,,Tsukuba.R
-1,2,syou6162,Rの基本データ構造、よく使う関数紹介 ,http://d.hatena.ne.jp/syou6162/20080725/1216968631,,Tsukuba.R
-1,3,syou6162,Rでのぐぐりかた,http://d.hatena.ne.jp/syou6162/20080725/1217018655,,Tsukuba.R
-1,4,Misho,"A history of the ""R"" ",NA,,Tsukuba.R
-1,5,wakuteka,Happy gRaphics!,NA,,Tsukuba.R
-1,6,syou6162,Rを使った統計勉強法【中心極限定理編】,http://d.hatena.ne.jp/syou6162/20080725/1216958812,,Tsukuba.R
-1,7,t_yamazaki021,Rを使ったBAモデルのシミュレーション)(仮) ,NA,,Tsukuba.R
-1,8,hogelog,はじめてのR ―恋するRはせつなくてLispを想うとついlambdaしちゃうの― ,NA,,Tsukuba.R
-1,9,syou6162,apply familyの紹介,http://d.hatena.ne.jp/syou6162/20080725/1216958961,,Tsukuba.R
-46,1,akiaki5516,10分で分かるr言語入門,http://www.slideshare.net/akiaki5516/10rver2-upload,tutorial,Tokyo.R
-46,2,所沢義男,Rはオワコン,NA,tutorial,Tokyo.R
-46,3,housecat442,重回帰分析で頑張りたい,http://www.slideshare.net/shotayasui/ss-44961623,statistics,Tokyo.R
-46,4,berobero11,順序データでもベイズモデリング,http://www.slideshare.net/berobero11/20150221-44954159,modeling,Tokyo.R
-46,5,Hiro_macchan,Logistic regression and Causal Effect Estimation,http://rpubs.com/Hiro_macchan/60861,statistics,Tokyo.R
-46,6,yutannihilation,htmlwidgetsでJavascriptの可視化をRに,https://rpubs.com/yutannihilation/how-to-use-htmlwidgets,htmlwidgets,Tokyo.R
-46,7,sato_mitsunori,cyREST入門～RとCytoscapeのAPI連携～,http://www.slideshare.net/MitsunoriSato/tokyor46-trycy-rest,visualize,Tokyo.R
-46,8,__nakamichi__,R6パッケージの紹介：機能と実装,http://www.slideshare.net/__nakamichi__/r6-upload,system,Tokyo.R
-46,9,teramonagi,ULT x 3,http://www.slideshare.net/teramonagi/ultra-lightning-talk-3,,Tokyo.R
-46,10,tetsuroito,俺とRとディリクレ分布,http://www.slideshare.net/tetsuroito/20150221-tokyo-r-lt-r,,Tokyo.R
-46,11,kikurage1001,Cox比例ハザードモデルとその周辺,http://www.slideshare.net/kikurage1001/cox-44956683,,
-46,12,gepuro,最強のハードディスクはどれだ？,http://www.slideshare.net/gepuro/ss-44957184,,
-46,13,u_ribo,Japan.R補完計画,http://www.slideshare.net/uribo/japanrtokyor46lt,,
-46,14,kos59125,Rにもしかして機能を追加した話,https://onedrive.live.com/view.aspx?resid=FD448A567D4BC37E!6194&ithint=file%2cpptx&app=PowerPoint&authkey=!AGLo3M_EBiXmInQ,,
+1,1,kosugitti,Rの準備と基本操作,https://t.co/udXaXDmUK6,NA,HijiyamaR
+1,2,kazutan,データ処理とグラフ作成,https://rpubs.com/kazutan/hijiyamar1,NA,HijiyamaR
+1,3,t_macya,データ入力が終わってから分析する前にすること,http://t.co/mLo6268HTv,NA,HijiyamaR
+1,4,t_yamane,anovakunとanovatan,http://t.co/7XZhYZotdl,NA,HijiyamaR
+1,5,simizu706,Rで因子分析〜某統計ソフトでできないあれこれ〜,http://t.co/8SSItWbLUJ,NA,HijiyamaR
+1,6,hirakawamakoto,Rで重回帰分析の交互作用効果を検討してみよう,http://t.co/0FT7Xqc4TH,NA,HijiyamaR
+1,7,Kosugitti,続・心理学のためのpsychパッケージ,https://t.co/BcrHCfBexp,NA,HijiyamaR
+1,1,sakaue,入門者講習,http://www.slideshare.net/sakaue/hiroshimar-1-12,NA,Hiroshima.R
+1,2,sakaue,R を言語・言語教育研究でどう活用できるか,http://www.slideshare.net/sakaue/hiroshimar-1-13-lt,NA,Hiroshima.R
+1,3,kosugitti,心理学のためのpsychパッケージ,http://www.slideshare.net/KojiKosugi/psych-8342608,NA,Hiroshima.R
+1,4,t2gtnd,空間データのための回帰分析,http://www.slideshare.net/springking/ss-8342938,NA,Hiroshima.R
+2,1,sakaue,入門者講習,http://www.slideshare.net/sakaue/hiroshimar-2,NA,Hiroshima.R
+2,2,sakaue,Rでグラフ再入門,http://www.slideshare.net/sakaue/hiroshimar-2-lt-by-sakaue,NA,Hiroshima.R
+2,3,t2gtnd,グラフで学ぶ主効果・交互作用,http://ppl.ug/ZBLpEuxurgk/,NA,Hiroshima.R
+2,4,T_Yamane,RStudio事始め,http://www.slideshare.net/TakashiYamane1/rstudio,NA,Hiroshima.R
+2,5,mihiog,Rを用いた地震データの可視化,http://www.slideshare.net/sakaue/hi-roshimar,NA,Hiroshima.R
+3,1,sakaue,入門者講習,http://www.slideshare.net/sakaue/hiroshimar3intror,NA,Hiroshima.R
+3,2,sakaue,RMeCab を使ったテキストマイニングの基礎の基礎,http://www.slideshare.net/sakaue/hiroshimar3rmecab,NA,Hiroshima.R
+3,3,Kimihira0120,今までのあらすじとこれからの予定,NA,NA,Hiroshima.R
+3,4,kazutan,RStudioでプレゼンスライドを作ってみる,http://rpubs.com/kazutan/hiroshimar3,NA,Hiroshima.R
+3,5,t2gtnd,Rで地図データを扱う,http://www.slideshare.net/springking/rmap,NA,Hiroshima.R
+3,6,simizu706,Rで潜在ランク分析,http://www.slideshare.net/simizu706/latent-rank-44708240,NA,Hiroshima.R
+1,1,sakaue,R のインストール・アップグレード・アンインストールの方法,http://www.slideshare.net/sakaue/japanr-11-5929073,NA,Japan.R
+1,2,sakaue,基本操作：四則演算、関数の利用、データの読み込み,http://www.slideshare.net/sakaue/japanr-2-introduction-to-r,NA,Japan.R
+1,3,sakaue,作図（基本操作の続き）、研究データの分析事例の紹介（デモ）,http://www.slideshare.net/sakaue/japanr-13,NA,Japan.R
+2,1,坪内孝太,Yahoo!ビッグデータからの景気動向指数の推測について,NA,NA,Japan.R
+2,2,tetsuroito,実ビジネスデータへのRの活用とその限界,http://www.slideshare.net/tetsuroito/japanr-2013-r,NA,Japan.R
+2,3,"田頭, 堀田",オンライン広告における大規模データの活用事例,NA,NA,Japan.R
+2,4,yokkuns,2013年のTokyo.R,http://www.slideshare.net/yokkuns/20131206-japan-r,NA,Japan.R
+2,5,ito_yan,コイン投げの分析を一捻り,http://www.slideshare.net/itoyan110/japanr2013-lt,NA,Japan.R
+2,6,Med_KU,変態にRを与えた結果がこれだよ…8 とにかくplotしてみた結果ver2,http://www.slideshare.net/Med_KU/20131207-japanr4-lt,NA,Japan.R
+2,7,林真広,オレオレR-GUIを作りたい（ので教えてください）,http://www.slideshare.net/m884/r-gui-28986250,NA,Japan.R
+2,8,wdkz,Shiny-Serverあれこれ,http://www.slideshare.net/wdkz/japanr2013-wdkz,NA,Japan.R
+2,9,motivic_,RでWAIC,http://www.slideshare.net/motivic/r-28993607,NA,Japan.R
+3,1,AriLamstein,choroplethrパッケージでコロプレスマップを簡単作成,http://www.slideshare.net/arilamstein/choroplethr-japanr-2014,visualize,Japan.R
+3,2,shsaix,データサイエンスエコシステム：オプトデータサイエンスラボの取り組み,NA,NA,Japan.R
+3,3,TJO_datasci,Deep Learningと他の分類器をRで比べてみよう,http://www.slideshare.net/takashijozaki1/japan-r2014-tjo,NA,Japan.R
+3,4,yanaoki,Machine Learning,NA,NA,Japan.R
+3,5,Azure MLの中の人,NA,NA,NA,Japan.R
+3,6,__john_smith__,SparkRを使ってみた,http://www.slideshare.net/__john_smith__/japanr-sparkr,NA,Japan.R
+3,7,Med_KU,NA,NA,NA,Japan.R
+3,8,hiddyy,NA,NA,NA,Japan.R
+3,9,h_kawahara,地方でデータと課題とRユーザーを集める,,NA,Japan.R
+3,10,chezou,mecab.jlを作った,http://www.slideshare.net/chezou/mecjapanr,NA,Japan.R
+3,11,motivic_,Rで高次元データの可視化,NA,NA,Japan.R
+3,12,ito_yan,絶対に作ってはいけないグラフ,NA,NA,Japan.R
+3,13,所沢義男,声に出したいR語録,http://www.slideshare.net/TokorosawaYoshio/japanr2014,NA,Japan.R
+3,14,wdkz,ハイレゾの話,http://www.slideshare.net/wdkz/ss-42418029,NA,Japan.R
+3,15,teramonagi,RFinanceJ始めました,http://www.slideshare.net/teramonagi/rfinancej,NA,Japan.R
+1,1,tsutatsuta,Kashiwa.R開催の趣旨,http://www.slideshare.net/tsutatsuta/kashiwar1,NA,Kashiwa.R
+1,2,wakuteka,NA,NA,NA,Kashiwa.R
+1,3,antiplastics,Rの高速化,NA,NA,Kashiwa.R
+1,4,tamura,Rを研究でどう使うか: 迷信の伝播と人類学から,http://www.slideshare.net/tmr_kohei/kashiwa-r/,NA,Kashiwa.R
+1,5,maro,画像解析とパターン認識における R の利用,http://www.slideshare.net/nmaro/r-10148614,NA,Kashiwa.R
+1,6,yuifu,NA,NA,NA,Kashiwa.R
+1,7,gentlementatu,独自の図を作成するための第一歩,NA,NA,Kashiwa.R
+2,1,gentlementatu,統計解析ソフトRのちょっと変わった使い方　テキストファイル出力編,NA,NA,Kashiwa.R
+2,2,wakuteka,忙しい人のための『Rグラフィックス』まとめ,NA,NA,Kashiwa.R
+2,3,yuifu,距離まとめ,http://www.slideshare.net/yuifu/ss-11776646,NA,Kashiwa.R
+2,4,maro,RandomForest 等について,http://www.slideshare.net/nmaro/kashiwar2-randomforest,NA,Kashiwa.R
+3,1,tsutatsuta,アンケートの解析,http://www.slideshare.net/tsutatsuta/120518kashiwar/,NA,Kashiwa.R
+3,2,yuifu,FDRの使い方,http://www.slideshare.net/yuifu/fdr-kashiwar-3,NA,Kashiwa.R
+3,3,antiplastics,フェチデータ解析,NA,NA,Kashiwa.R
+3,4,nukkie66,lme4でGLMM,NA,NA,Kashiwa.R
+3,5,tmr_kohei,オタクショップ数の地域差は30代男性未婚率を説明するか？,http://www.slideshare.net/tmr_kohei/kashiwar-3,NA,Kashiwa.R
+3,6,fukunagaTsu,RでAUC解析,NA,NA,Kashiwa.R
+3,7,gggtta,Rで親孝行!?,NA,NA,Kashiwa.R
+3,8,Mozk_,環境とメタプログラミング,NA,NA,Kashiwa.R
+4,1,yuifu,Bio! Bio! Bio!,http://www.slideshare.net/yuifu/r-14522419,NA,Kashiwa.R
+4,2,antiplastics,RとSQLiteで気軽にデータベース作成,NA,NA,Kashiwa.R
+4,3,tsutatsuta,Rで密度推定,http://d.hatena.ne.jp/tsutatsutatsuta/20120928/1348801089,NA,Kashiwa.R
+4,4,fukunagatsu,Rとビールとオムツの関係,NA,NA,Kashiwa.R
+4,5,gentlementatu,がちで生存時間解析する,NA,NA,Kashiwa.R
+4,6,gggtta,中身を理解する意義,NA,NA,Kashiwa.R
+4,7,nukkie66,とりあえずPCAで何かに使えそうな図を作る,NA,NA,Kashiwa.R
+5,1,yuifu,初めてのＲ　Rを始める前に知っておきたい10のこと,http://www.slideshare.net/yuifu/121130-kashiwar-5-r10-15437737,NA,Kashiwa.R
+5,2,fukunagaTsu,初めてのＲ　作図編,NA,NA,Kashiwa.R
+5,3,cali,yurufuwa.R,NA,NA,Kashiwa.R
+5,4,Mozk_,RExcel,http://www.slideshare.net/ShoichiroOishi/kashiwar-5-rexcel,NA,Kashiwa.R
+5,5,tsutatsuta,Rでクリスマスっぽいものをつくる,NA,NA,Kashiwa.R
+5,6,gentlementatu,今度こそ生存時間解析,NA,NA,Kashiwa.R
+5,7,wakuteka,統計超人あ～る アンドロイドだけどRさえあれば関係ないよねっ,NA,NA,Kashiwa.R
+5,8,Med_KU,変態にRを与えた結果がこれだよ,NA,NA,Kashiwa.R
+6,1,tsutatsuta,クラスとオブジェクトの話をしよう,NA,NA,Kashiwa.R
+6,2,antiplastics,オミックス解析におけるベイズ統計の役割,NA,NA,Kashiwa.R
+6,3,yuifu,Shiny Serverを用いたオープンサイエンスの可能性,NA,NA,Kashiwa.R
+6,4,fukunagaTsu,見よ、かの青空に,NA,NA,Kashiwa.R
+6,5,Med_KU,ラブライブが好きすぎて彼女たちを解析してみた,NA,NA,Kashiwa.R
+7,1,tsutatsuta,Kashiwa.Rについて,NA,NA,Kashiwa.R
+7,2,wakuteka,Rの基本,NA,NA,Kashiwa.R
+7,3,fukunagaTsu,Rでプロット,NA,NA,Kashiwa.R
+7,4,gggtta,Rでデータ取得自動化,NA,NA,Kashiwa.R
+7,5,Med_KU,比較・検定・多重検定補正,NA,NA,Kashiwa.R
+7,6,antiplastics,DNAマイクロアレイの解析と多重検定補正 ntiplastics,NA,NA,Kashiwa.R
+7,7,yuifu,"RでできるRNA-seq, ChIP-seq解析 ",NA,NA,Kashiwa.R
+7,8,antiplastics,遺伝子のアノテーション付加,NA,NA,Kashiwa.R
+8,1,tsutatsuta,はじめに,NA,NA,Kashiwa.R
+8,2,fukunagaTsu,福永のRをはじめからていねいに,NA,NA,Kashiwa.R
+8,3,gggtta,Rで育むデータを描く力,,NA,Kashiwa.R
+8,4,wakuteka,Rが最強の統計学習環境である,NA,NA,Kashiwa.R
+8,5,antiplastics,Rでシステムバイオロジー,http://www.slideshare.net/antiplastics/r-22169106,NA,Kashiwa.R
+8,6,tsutatsuta,Rと同位体分析,http://www.slideshare.net/tsutatsuta/kashiwar8,NA,Kashiwa.R
+8,7,yuifu,Rで塩基配列解析,NA,NA,Kashiwa.R
+8,8,nukkie66,Rで薬剤標的プロファイリング,NA,NA,Kashiwa.R
+8,9,Med_KU,とにかくplotしてみた結果,NA,NA,Kashiwa.R
+9,1,tsutatsuta,Bagplot: 二変数の箱ひげ図,http://www.slideshare.net/tsutatsuta/kashiwar9,NA,Kashiwa.R
+9,2,yuifu,ゲノム解析でRを使う,http://www.slideshare.net/yuifu/kashiwar9-r,NA,Kashiwa.R
+9,3,antiplastics,metaSeq: RNA-seqデータにおけるメタアナリシス解析パッケージ,NA,NA,Kashiwa.R
+9,4,fukunagaTsu,全てをRでやらないと言う事,NA,NA,Kashiwa.R
+9,5,Med_KU,Rでフローサイトメトリー,http://www.slideshare.net/Med_KU/20131011kashiwar9,NA,Kashiwa.R
+9,6,YAMADA Akitaka,Rとコーパスを用いた言語表現の観察,NA,NA,Kashiwa.R
+10,1,tsutatsuta,convex hullと確率楕円,NA,NA,Kashiwa.R
+10,2,antiplastics,R以外の研究ツール,NA,NA,Kashiwa.R
+10,3,wakuteka,markdownで解析のメモをとることについて,NA,NA,Kashiwa.R
+10,4,yuifu,巨大な表を高速に扱う data.table について,http://www.slideshare.net/yuifu/datatable-36578672,NA,Kashiwa.R
+10,5,calicoli,Rで音声解析,NA,NA,Kashiwa.R
+10,6,teuder,Rcppのすゝめ: C++を知らないあなたにおくる簡単ハイパフォーマンス・プログラミング,http://www.slideshare.net/masakitsuda940/rcpp-36654397,NA,Kashiwa.R
+10,7,mona,Rで統計のキホン,NA,NA,Kashiwa.R
+10,8,KeiHKojo,画像処理をRでやってみた,NA,NA,Kashiwa.R
+1,1,sakaue,Nagoya.R の趣旨説明,NA,NA,Nagoya.R
+1,2,sakaue,第１部：R 概論・R の基本操作,NA,NA,Nagoya.R
+1,3,sakaue,第２部：大量のデータを扱う、作図して保存する,NA,NA,Nagoya.R
+1,4,sakaue,言語（習得）研究と R,NA,NA,Nagoya.R
+1,5,sakaue,Mac いいよ Mac,NA,NA,Nagoya.R
+2,1,sakaue,入門者講習,NA,NA,Nagoya.R
+2,2,watayan,こまけぇこたぁいいんだよ！,NA,NA,Nagoya.R
+2,3,kos59125,R で２ちゃんねるを読んでみた,NA,NA,Nagoya.R
+2,4,小島ますみ,コーパス研究における χ 二乗検定再入門,NA,NA,Nagoya.R
+3,1,天野修一,入門者講習,NA,NA,Nagoya.R
+3,2,sakaue,#1 & #2 の続き：行列の操作（データの読み込み・修正など）,NA,NA,Nagoya.R
+3,3,langstat,プロットや判別分析関連のお話,NA,NA,Nagoya.R
+3,4,kos59125,R on ideone.com,NA,NA,Nagoya.R
+3,5,syoh11,正規表現（超速習）,NA,NA,Nagoya.R
+3,6,yoh2,プロテオーム解析にRをつかいたい(希望),NA,NA,Nagoya.R
+4,1,天野修一,入門者講習,NA,NA,Nagoya.R
+4,2,kos59125,標本調査におけるばらつきの評価―ブートストラップ法入門―,NA,NA,Nagoya.R
+4,3,syoh11,中心極限定理,NA,NA,Nagoya.R
+4,4,zgmf-x20a,いまごろになって userR!2008 の参加報告,NA,NA,Nagoya.R
+4,5,sakaue,Japan.R 開催のお知らせとお願い,NA,NA,Nagoya.R
+2,1,phosphor_m,初心者講習会資料,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjQ4NDc5OTA0N2I2MWI4OWQ,NA,Osaka.R
+2,2,phosphor_m,データハンドリング中級編,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjUxNzBiMTExNGI1YTE3MTA,NA,Osaka.R
+2,3,phosphor_m,プロット入門,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjRiMWM2YTRhMmFkMDIyMDM,NA,Osaka.R
+2,4,phosphor_m,GUI on R―RExcelとDeducer―,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM1YzJhZGVkZDU5M2YxYTA,NA,Osaka.R
+2,5,langstat,R言語による検定入門,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM5M2M3MmRhMGVjMzYyN2Y,NA,Osaka.R
+3,1,phosphor_m,初心者講習会資料（Osaka.R3）,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM0MDdmNWJkMjY3N2E3OTU,NA,Osaka.R
+3,2,phosphor_m,memiscパッケージで脱spss!,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM3OTJjNmU5OTQ3NTkzODY,NA,Osaka.R
+3,3,langstat,R言語によるテキストマイニング入門,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjVhN2QzODU3Yzg3YjEyOWI,NA,Osaka.R
+3,4,phosphor_m,RでSEM入門―SEMは（そんなに）怖くない,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjFlNDVmMDM2Y2ZiNTE0ZDY,NA,Osaka.R
+4,1,phosphor_m,はじめてでもわかるデータ入出力,http://slidesha.re/e6Dk1E,NA,Osaka.R
+4,2,a_bicky,TwitterのデータをRであれこれ,http://www.slideshare.net/abicky/twitterr,NA,Osaka.R
+4,3,langstat,R言語によるコーパス分析入門,http://d.hatena.ne.jp/a_bicky/20101205/1291511878,NA,Osaka.R
+4,4,kozo2,reshapeを用いたdata aggregation,http://slidesha.re/gNUHnX,NA,Osaka.R
+4,5,zgmfx20a,EBImageの紹介,http://slidesha.re/eHuO9i,NA,Osaka.R
+5,1,phosphor_m,初心者講習会,http://www.slideshare.net/m884/osakar5-7702482,NA,Osaka.R
+5,2,phosphor_m,Rzパッケージ―SPSSのようなデータ管理インターフェイス,http://www.slideshare.net/m884/rzspss,NA,Osaka.R
+5,3,langstat,R言語による決定木入門,http://www.slideshare.net/langstat/osakar5,NA,Osaka.R
+5,4,zgmfx20a,Random Forests 不徹底入門,http://www.slideshare.net/zgmfx20a/random-forests,NA,Osaka.R
+5,5,sakaue,Rを用いた視線計測データの可視化方法の検討,http://www.slideshare.net/sakaue/osakar-5-presentation,NA,Osaka.R
+5,6,lctabata,Rでとる文体指紋：英国Victoria朝の作家Charles DickensとWilkie Collins ,http://www.lang.osaka-u.ac.jp/~tabata/OsakaR_20110423_Dickens_v_Collins,NA,Osaka.R
+6,1,phosphor_m,初心者講習会,http://www.slideshare.net/m884/osakar6-8485597,NA,Osaka.R
+6,2,DIG11,Rを使用したGISの表現基本編,http://www.slideshare.net/langstat/osakar6,NA,Osaka.R
+6,3,bonohu, Rによる大規模ゲノムデータ解析の企て,http://www.slideshare.net/sakaue/osakar-6-lt,NA,Osaka.R
+6,4,zgmfx20a,Random Forests判別学習結果のもうひとつの可視化手法Partition Maps,http://www.slideshare.net/m884/osakar6-8485597,NA,Osaka.R
+6,5,langstat,R言語によるナイーブベイズ入門,http://www.slideshare.net/langstat/osakar6,NA,Osaka.R
+6,6,sakaue,箱ひげ図を復習する（＋One more thing）,http://www.slideshare.net/sakaue/osakar-6-lt,NA,Osaka.R
+7,1,nanaya_sac,第一回ゆるふわーる(Osaka.R女子部),http://www.slideshare.net/SachikoHirata/ss-11644270,NA,Osaka.R
+7,2,phosphor_m,入門者講習,http://www.slideshare.net/m884/osakar7-11521456,NA,Osaka.R
+7,3,sakaue,主催のススメ: Nagoya.Rの発足から引退まで,NA,NA,Osaka.R
+7,4,sakaue,フォントのオハナシ,http://www.slideshare.net/sakaue/osakar-7-lt-11531320,NA,Osaka.R
+7,5,phosphor_m,Rzパッケージの紹介,http://www.slideshare.net/m884/rz-11521427,NA,Osaka.R
+7,6,langstat,Rでテキストマイニングをする前に,http://www.slideshare.net/langstat/osakar7,NA,Osaka.R
+7,7,seisumi,Google AnalyticsとRを使ったアクセスログの主成分分析,NA,NA,Osaka.R
+7,8,aonoa732384,Rで方言のネットワーク分析,http://www.slideshare.net/AyakaOnohara/r-11532674,NA,Osaka.R
+1,1,sakaue,R ことはじめ,NA,NA,SappoRo.R
+1,2,sakaue,『Rで学ぶデータサイエンス』シリーズ のスクリプトを片っ端から実行してみました,NA,NA,SappoRo.R
+1,3,seisumi,Rを使った次元数の縮約化,NA,NA,SappoRo.R
+1,4,sakaue,R で言語研究をはじめよう,NA,NA,SappoRo.R
+1,5,KuboBook,R で統計モデルと作図,NA,NA,SappoRo.R
+1,6,nakayoshix,仕事で使うR,NA,NA,SappoRo.R
+1,7,havanaclub_,R@プログラミング環境マニヤ視点から,NA,NA,SappoRo.R
+1,8,daihiko,SASだと簡単なのにRでやると面倒だと思ってしまうところ,NA,NA,SappoRo.R
+1,9,高見敏子,クラスター分析のWard法で指定すべき距離,NA,NA,SappoRo.R
+2,1,kosugitti,始めよう、R,http://www.slideshare.net/KojiKosugi/sapporor-2ws,NA,SappoRo.R
+2,2,daihiko,群ごとの処理とAnova君の解説,NA,NA,SappoRo.R
+2,3,MizumotoAtsushi,R を使ったコンピュータ適応型テスト構築の試み,NA,NA,SappoRo.R
+2,4,yearman,やはり俺のR使用法はまちがっている。,NA,NA,SappoRo.R
+2,5,watttcho,R Markdown を使うと図と分析をセットで管理できてラク,NA,NA,SappoRo.R
+2,6,casualconc,MacR の紹介,NA,NA,SappoRo.R
+3,1,daihiko,R入門,http://www.slideshare.net/dnakanisi/sapporor-3-2014-r,NA,SappoRo.R
+3,2,kazutan,結果レポートはもうRStudioで作ってしまおう,http://blog.kz-md.net/?p=970,NA,SappoRo.R
+3,3,simizu706,glmer2stanパッケージを使った，MCMC推定によるマルチレベルモデル,http://www.slideshare.net/simizu706/mcmc-35634309,NA,SappoRo.R
+3,4,MizumotoAtsushi,Shinyを使った統計解析Webアプリケーションの作成,http://www.slideshare.net/AtsushiMizumoto/sapporor3,NA,SappoRo.R
+3,5,simizu706,Excelのフリーソフトでも統計解析　HADの紹介,http://www.slideshare.net/simizu706/excel-37442423,NA,SappoRo.R
+1,1,yokkuns,Rの基礎(Rとは、データ構造、データの入出力、データの視覚化),NA,NA,Tokyo.R
+1,2,yokkuns,統計学の基礎(記述統計/推定/検定),http://www.slideshare.net/yokkuns/r-3008616,NA,Tokyo.R
+1,3,akiaki5516,NA,NA,NA,Tokyo.R
+2,1,yokkuns,統計的仮説検定、2つの平均値の比較,http://www.slideshare.net/yokkuns/r-studytokyo02,NA,Tokyo.R
+2,2,nokuno,Rで機械学習パッケージを試す(仮),http://www.slideshare.net/nokuno/tokyo-r-2-machine-learning,NA,Tokyo.R
+2,3,mizutomo,半導体と統計と私(仮),http://www.slideshare.net/mizutomo/r-study-lt-02-3289573,NA,Tokyo.R
+3,1,yokkuns,分散分析,http://bit.ly/eKx3RB,NA,Tokyo.R
+3,2,syou6162,Optimization in R,http://www.slideshare.net/syou6162/optimization-in-r,NA,Tokyo.R
+3,3,hamadakoichi,プロセス、リソース、グラフと統計解析,http://www.slideshare.net/hamadakoichi/r-3569085,NA,Tokyo.R
+3,4,doradora09,RFinanceYJを使ってみた,http://bit.ly/eabQki,NA,Tokyo.R
+3,5,wakuteka,RとDBMS,http://www.slideshare.net/wakuteka/rdbms-3569579,NA,Tokyo.R
+3,6,Nikoriks,25年前のS事情,http://www.slideshare.net/nokuno/tokyo-r-2-machine-learning,NA,Tokyo.R
+4,1,yokkuns,Rによるやさしい統計学10章～14章 ,http://www.slideshare.net/yokkuns/tokyor04,NA,Tokyo.R
+4,2,hotoku,Rでカルマンフィルタ,NA,NA,Tokyo.R
+4,3,yanashi,財布にやさしいRを使ったデータマイニング,http://www.slideshare.net/yanashi/r-3847999,NA,Tokyo.R
+4,4,takanobu_mizuta,Value at Risk の紹介,http://www.slideshare.net/mizutata/20100424-tokyo-r,NA,Tokyo.R
+4,5,hamadakoichi,R言語による時系列分析,http://www.slideshare.net/hamadakoichi/r-3836773,NA,Tokyo.R
+5,1,doradora09,Rによるやさしい統計学 : 第15章 回帰分析,NA,NA,Tokyo.R
+5,2,oshiro40,人口統計データの分析手法,http://www.slideshare.net/oshiro40/r-4260048,NA,Tokyo.R
+5,3,hamadakoichi,R 言語による アソシエーション分析 － 組合せ・事象の規則を解明する －,http://www.slideshare.net/hamadakoichi/r-r-4219052,NA,Tokyo.R
+5,4,yokkuns,RとWeb API,http://www.slideshare.net/yokkuns/rweb-api,NA,Tokyo.R
+6,1,holidayworking,Rによるやさしい統計学 第16章 : 因子分析,http://www.slideshare.net/holidayworking/r-16,NA,Tokyo.R
+6,2,dichika,ggplot2できれいなグラフ,http://www.slideshare.net/dichika/ggplot2,NA,Tokyo.R
+6,3,teramonagi,Rで学ぶ金融工学入門　～現代ポートフォリオ理論編～,http://www.slideshare.net/teramonagi/tokyor06,NA,Tokyo.R
+6,4,halamy,金融工学入門 ～Rで確率微分方程式～,NA,NA,Tokyo.R
+6,5,masafumisano,Y！ファイナンス非公式ガイド（仮）,NA,NA,Tokyo.R
+6,6,yokkuns,10分で分かるRパッケージの作り方,http://www.slideshare.net/yokkuns/10r,NA,Tokyo.R
+7,1,bob3bob3,Rによるやさしい統計学 第17章 : 共分散構造分析,http://www.slideshare.net/bob3/tokyor8-brand-positioning-20100828,NA,Tokyo.R
+7,2,yanashi,PythonとR,NA,NA,Tokyo.R
+7,3,tyatsuta,R Language Definition案内～Rでハマったときのために～,http://www.slideshare.net/yatsuta/090724-tokyor,NA,Tokyo.R
+7,4,mangantempy,Rで麻雀,http://www.slideshare.net/mangantempy/r-4826821,NA,Tokyo.R
+7,5,sfchaos,RとC、C++の連携,http://www.slideshare.net/sfchaos/tokyor7rcc,NA,Tokyo.R
+7,6,yokkuns,10分で分かるRパッケージの作り方,http://www.slideshare.net/yokkuns/10r,NA,Tokyo.R
+8,1,yokkuns,Rによるデータサイエンス第Ⅱ部 第3章 対応分析,http://www.slideshare.net/yokkuns/tokyor08,NA,Tokyo.R
+8,2,bob3bob3,ブランド・ポジショニングの分析,http://www.slideshare.net/bob3/tokyor8-brand-positioning-20100828,NA,Tokyo.R
+8,3,holidayworking,RでMapReduce,http://www.slideshare.net/holidayworking/rmapreduce,NA,Tokyo.R
+8,4,Nikoriks,Rのハラワタをちょっと見てみる,http://www.slideshare.net/Nikoriks/r-5065138,NA,Tokyo.R
+8,5,aad34210,Rの海外サイトのご紹介（仮）,http://www.slideshare.net/aad34210/tokyo-r-no8,NA,Tokyo.R
+9,1,tyatsuta,Rの失敗？環境と変数代入と遅延評価と～R Language Definition案内番外編～,http://www.slideshare.net/yatsuta/100919-tokyor,NA,Tokyo.R
+9,2,yokkuns,Rによるデータサイエンス第Ⅱ部 第4章 多次元尺度法,http://www.slideshare.net/yokkuns/tokyor09,NA,Tokyo.R
+9,3,nokuno,Rによる文書モデルの可視化　～トピックモデル、ディリクレ分布、LDA,http://www.slideshare.net/nokuno/r-r-5231885,NA,Tokyo.R
+9,4,aad34210,RExcelでの日本語利用,http://www.slideshare.net/aad34210/japan-r-101127,NA,Tokyo.R
+9,5,teramonagi,スマートに時系列を捌く方法,http://www.slideshare.net/teramonagi/r-1,NA,Tokyo.R
+10,1,hnz,Rによるデータサイエンス第Ⅱ部 第5章 クラスター分析,http://www.slideshare.net/hnisiji/tokyo-r10,NA,Tokyo.R
+10,2,manozo,スマートに時系列を捌く方法 2,NA,NA,Tokyo.R
+10,3,ito_yan,基本パッケージの描画機能について,http://www.slideshare.net/itoyan110/plot-5690921,NA,Tokyo.R
+10,4,yokkuns,Japan.Rについて,NA,NA,Tokyo.R
+10,5,teramonagi,マルコフ連鎖モンテカルロ法入門-1,http://www.slideshare.net/teramonagi/ss-5190440,NA,Tokyo.R
+11,1,bob3bob3,Rによるデータサイエンス第Ⅱ部 第6章 自己組織化マップ,http://www.slideshare.net/bob3/tokyo-r-11selforganizingmap,NA,Tokyo.R
+11,2,aad34210,ggplot2：パッケージ製作者（Wickamさん）の話を聞いて,http://www.slideshare.net/aad34210/ggplot2-110129,NA,Tokyo.R
+11,3,dichika,caretパッケージの紹介,http://www.slideshare.net/dichika/tokyo-r11caret,NA,Tokyo.R
+11,4,sfchaos,RにおけるHPC 並列計算編,http://www.slideshare.net/sfchaos/rhpc1-tokyor11-6742988,NA,Tokyo.R
+11,5,AntiBayesian,Rで始めるテキストマイニング,http://www24.atpages.jp/antibayesian/up/src/up0001.pdf,NA,Tokyo.R
+11,6,hamadakoichi,R言語による Random Forest 徹底入門,http://www.slideshare.net/hamadakoichi/introduction-torandomforest-tokyor,NA,Tokyo.R
+12,1,yokkuns,Rによる回帰分析入門,http://www.slideshare.net/yokkuns/tokyo-r12-r,NA,Tokyo.R
+12,2,sleipnir002,Rで学ぶデータサイエンス 5パターン認識 1章 判別能力の評価 2,http://www.slideshare.net/sleipnir002/01-7159349,NA,Tokyo.R
+12,3,teramonagi,Rで学ぶ回帰分析と単位根検定,http://www.slideshare.net/teramonagi/r-7066155,NA,Tokyo.R
+12,4,aad34210,RをSQLで操る,http://www.slideshare.net/aad34210/tokyo-r-sqldf,NA,Tokyo.R
+12,5,sfchaos,Rあんな時こんな時　～いつか役立つ(かもしれない)Tips～,http://www.slideshare.net/sfchaos/rtokyo-r12,NA,Tokyo.R
+12,6,dichika,世界のR(仮),http://www.slideshare.net/dichika/r-7159503,NA,Tokyo.R
+13,1,isseing333,線形判別分析,http://www.slideshare.net/isseing333/tokyo-r-201104,NA,Tokyo.R
+13,2,kos59125,R と .NET Framework,https://docs.google.com/a/recyclebin.jp/viewer?a=v&pid=explorer&srcid=0B3zrAV1SplSBOGRkYmRjYWQtYWUwNi00MWIwLTg2N2ItMGQ3OGFlM2UwYjU2&hl=en&chrome=true,NA,Tokyo.R
+13,3,sfchaos,Rで学ぶロバスト推定,http://www.slideshare.net/sfchaos/r-7773031,NA,Tokyo.R
+13,4,酒井,Rで地理空間分析,NA,NA,Tokyo.R
+13,5,yokkuns,YjdnJlpの紹介とか,http://www.slideshare.net/yokkuns/tokyor13-yjdnjlptokyor,NA,Tokyo.R
+13,6,mokjpn,Rパッケージガイドブックの紹介,NA,NA,Tokyo.R
+14,1,suima8,非線形判別の勉強をしてみました,NA,NA,Tokyo.R
+14,2,holidayworking,Rが黄色い象に出会った,http://www.slideshare.net/holidayworking/r-meets-hadoop,NA,Tokyo.R
+14,3,sleipnir002,Rで学ぶデータサイエンス5 パターン認識 2章 K-平均法,http://www.slideshare.net/sleipnir002/02-kver20,NA,Tokyo.R
+14,4,_kohta,Rでisomap,http://www.slideshare.net/kohta/risomap,NA,Tokyo.R
+14,5,mangantempy,Rのコードをキレイに見せたい,http://www.slideshare.net/mangantempy/r-8133033,NA,Tokyo.R
+14,6,gepuro,QC7つ道具,http://www.slideshare.net/gepuro/qc7tools,NA,Tokyo.R
+14,7,isseing333,大規模データマイニングでのモデル探索手法：K-sample plot,http://www.slideshare.net/isseing333/tokyo-r-14201105,NA,Tokyo.R
+14,8,yokkuns,R言語でユニットテスト,http://www.slideshare.net/yokkuns/tokyor14-r/,NA,Tokyo.R
+15,1,doradora09,テキスト第11章 生存分析,http://www.slideshare.net/akiaki5516/survival-analysis0702,NA,Tokyo.R
+15,2,sleipnir002,Rで学ぶデータサイエンス　第4章　混合正規分布モデル,http://www.slideshare.net/sleipnir002/04-8419654,NA,Tokyo.R
+15,3,teramonagi,xtsパッケージで時系列解析,http://www.slideshare.net/teramonagi/tokyo-r15-20110702,NA,Tokyo.R
+15,4,yokkuns,Rによる異常検知入門（仮）,http://www.slideshare.net/yokkuns/tokyo-r15,NA,Tokyo.R
+15,5,dichika,シリーズRで可視化#1 ggplot2とgoogleVisとhwriterでレポートを作る,http://www.slideshare.net/dichika/tokyor15mod,NA,Tokyo.R
+15,6,manozo,Rで自分で料理 ～tsクラスとか～,http://www.slideshare.net/manozo/ts-8518025,NA,Tokyo.R
+15,7,AntiBayes,あんちべのすべらない話 ～俺のツイートがこんなにウケないはずがない～,http://www.slideshare.net/AntiBayesian/ss-8487534,NA,Tokyo.R
+16,1,sleipnir002,Rで学ぶデータサイエンス5パターン認識　8/9章 k-近傍法、学習ベクトル量子化,http://www.slideshare.net/sleipnir002/08-09-k-lvq,NA,Tokyo.R
+16,2,Hiro_macchan,Rを用いた地理的情報解析,http://www.slideshare.net/Hiro_macchan/tokyo-r-hiromatsu,NA,Tokyo.R
+16,3,a_bicky,Rデバッグあれこれ,http://www.slideshare.net/abicky/r-9034336,NA,Tokyo.R
+16,4,ito_yan,Rで実験計画法,http://www.slideshare.net/itoyan110/r-9139125,NA,Tokyo.R
+16,5,tyatsuta,DICEWARS by R,http://www.slideshare.net/yatsuta/tokyo-r16,NA,Tokyo.R
+16,6,wdkz,Rで大規模データ解析,http://www.slideshare.net/wdkz/tokyor16-wdkz,NA,Tokyo.R
+16,7,dichika,シリーズRで可視化#2 インフォグラフはじめました,http://www.slideshare.net/dichika/tokyor16,NA,Tokyo.R
+16,8,yokkuns,異常行動検出入門 – 行動データ時系列のデータマイニング,http://www.slideshare.net/yokkuns/ss-9031918,NA,Tokyo.R
+17,1,teramonagi,Rによるデータサイエンス第12章「時系列」,http://www.slideshare.net/teramonagi/tokyo-r17-20110924ppt,NA,Tokyo.R
+17,2,holidayworking,Rで解く最適化問題 – 線型計画問題編 –,http://www.slideshare.net/holidayworking/r-9425215,NA,Tokyo.R
+17,3,kos59125,近似ベイズ計算でカジュアルなベイズ推定,http://www.slideshare.net/kos59125/ss-9290131,NA,Tokyo.R
+17,4,yokkuns,Rで学ぶ傾向スコア解析入門 ,http://www.slideshare.net/yokkuns/r-9387843,NA,Tokyo.R
+17,5,mangantempy,サーバ異常検知入門 ,http://www.slideshare.net/mangantempy/ss-9399901,NA,Tokyo.R
+17,6,yuuukiooi,Rによる計量経済学入門,http://www.slideshare.net/yuuukioii/rtokyor17-9471725,NA,Tokyo.R
+17,7,dichika,TokyoRの軌跡,http://www.slideshare.net/dichika/tokyor17-9449827,NA,Tokyo.R
+17,8,tsutatsuta,Rで富士山を描いてみた,http://www.slideshare.net/tsutatsuta/tokyor17,NA,Tokyo.R
+17,9,wakuteka,Tsukuba.Rの軌跡,http://www.slideshare.net/wakuteka/once-upon-a-time-in-tsukubar-9479988,NA,Tokyo.R
+17,10,gepuro,ログ解析,NA,NA,Tokyo.R
+18,1,aad34210,はじめてのR ,http://www.slideshare.net/aad34210/tokyo-r18,NA,Tokyo.R
+18,2,dichika,XLConnectで快適なエクセルライフのご提案,http://www.slideshare.net/dichika/tokyor18,NA,Tokyo.R
+18,3,takemikami,Rによるデータサイエンス第13章「樹木モデル」,http://www.slideshare.net/takemikami/r13-9821987,NA,Tokyo.R
+18,4,horihorio,Rで学ぶ現代ポートフォリオ理論,http://www.slideshare.net/horihorio/portfolio-tokyo-r18,NA,Tokyo.R
+18,5,atgmacontnd,部分的最小二乗法,http://goo.gl/kmu44,NA,Tokyo.R
+18,6,kenchan0130_aki,最適化アレ コレ ソレ,http://www.slideshare.net/tadayukionishi/tokyo-r-1012,NA,Tokyo.R
+18,7,holidayworking,RHadoopの紹介,http://www.slideshare.net/holidayworking/rhadoop,NA,Tokyo.R
+18,8,Hiro_macchan,Rで計量経済（操作変数を使ったバイアス調整）,NA,NA,Tokyo.R
+19,1,doraodora09,Rによるデータサイエンス第14章「ニューラルネットワーク」,NA,NA,Tokyo.R
+19,2,fuji_fujimon,デリバティブについて,NA,NA,Tokyo.R
+19,3,chiral,Rで色々やってみました,http://www.slideshare.net/MasayukiIsobe/tokyor-19-r,NA,Tokyo.R
+19,4,yokkuns,複雑ネットワーク徹底入門,NA,NA,Tokyo.R
+19,5,kos59125,Rで解くFizzBuzz 問題,http://www.slideshare.net/kos59125/r-fizzbuzz,NA,Tokyo.R
+19,6,wdkz,RでGPU使ってみるわ～,http://www.slideshare.net/wdkz/rgpu-10228793,NA,Tokyo.R
+20,1,sleipnir002,実行して4秒で動画-animationパッケージで動画作成-,http://www.slideshare.net/sleipnir002/animation10,NA,Tokyo.R
+20,2,teramonagi,ポアソン分布と指数分布のいけない関係,http://www.slideshare.net/teramonagi/ss-11296227,NA,Tokyo.R
+20,3,sfchaos,不均衡データのクラス分類,http://www.slideshare.net/sfchaos/ss-11307051,NA,Tokyo.R
+20,4,yokkuns,Rによるデータサイエンス 第15章 カーネル法とサポートベクターマシン,NA,NA,Tokyo.R
+20,5,tyatsuta,R創設者Ross Ihakaからのメッセージをお読みください,http://www.slideshare.net/yatsuta/120128tokyor,NA,Tokyo.R
+20,6,dichika,お詫びとお知らせ,http://www.slideshare.net/dichika/tokyor20-11306807,NA,Tokyo.R
+20,7,酒井,SVMでひったくりを予測,NA,NA,Tokyo.R
+20,8,manozo,Rでマンデルブロ集合,http://www.slideshare.net/manozo/ss-11303560,NA,Tokyo.R
+21,1,aad34210,続はじめてのR,http://www.slideshare.net/aad34210/tokyo-r21-2,NA,Tokyo.R
+21,2,holidayworking,Rによるデータサイエンス第16章 集団学習,http://www.slideshare.net/holidayworking/ss-11948523,NA,Tokyo.R
+21,3,Hiro_macchan,Rで学ぶ観察データでの因果推定,http://www.slideshare.net/Hiro_macchan/tokyo-r21-open,NA,Tokyo.R
+21,4,horihorio,RでGARCHモデル,http://www.slideshare.net/horihorio/garch-by-r,NA,Tokyo.R
+21,5,langstat,テキストマイニングで見る「機動戦士ガンダム」,http://www.slideshare.net/langstat/tokyor21,NA,Tokyo.R
+21,6,yokkuns,uplift modeling,http://www.slideshare.net/yokkuns/uplift-modelling-1,NA,Tokyo.R
+21,7,bob3bob3,RでPSM分析,http://d.hatena.ne.jp/bob3/20120310,NA,Tokyo.R
+21,8,atg,オタク的な標準偏差,NA,NA,Tokyo.R
+21,9,teramonagi,菩薩でも分かる!Rで動かすExcelアドインの作り方,http://www.slideshare.net/teramonagi/rexcel,NA,Tokyo.R
+21,10,wdkz,Rが苦手な人に使って頂く,http://www.slideshare.net/wdkz/tokyor21-wdkzpublish,NA,Tokyo.R
+21,11,millionsmile,二部グラフを使ったソーシャルネットワーク,http://www.slideshare.net/hirokoonari/2-11947351,NA,Tokyo.R
+21,12,sleipnir002,TokyoBeerのご案内,NA,NA,Tokyo.R
+22,1,sleipnir002,Rで学ぶデータサイエンス5 ロジスティック回帰,http://www.slideshare.net/sleipnir002/05-12739580,NA,Tokyo.R
+22,2,bob3bob3,アソシエーション分析,http://www.slideshare.net/bob3/tokyo-r22,NA,Tokyo.R
+22,3,ito_yan,Rで実験計画法中編,NA,NA,Tokyo.R
+22,4,yokkuns,選択バイアス入門,http://www.slideshare.net/yokkuns/tokyor22-selection-bias,NA,Tokyo.R
+22,5,atg,どっち使う？分散の式,NA,NA,Tokyo.R
+22,6,fuji_fujimon,ガチャとマルコフ連鎖,http://www.slideshare.net/fuji_fujimon/ss-12269485,NA,Tokyo.R
+22,7,Prunus1350,RとProcessingの連携,http://www.slideshare.net/Prunus1350/rprocessing,NA,Tokyo.R
+22,8,chiral,MKLのshogun-toolboxをRで使う,http://www.slideshare.net/MasayukiIsobe/tokyor-22-lt,NA,Tokyo.R
+22,9,shuyo,Rで音声合成やってみた,http://d.hatena.ne.jp/n_shuyo/20120501/tokyor,NA,Tokyo.R
+22,10,gepuro,らくがき！,http://www.slideshare.net/gepuro/ss-12926109,NA,Tokyo.R
+23,1,Nikoriks,そういえば，Rとは何だったか思い出してみる,http://www.slideshare.net/Nikoriks/r-13089670,NA,Tokyo.R
+23,2,doradora09,Rによるやさしい統計学 2nd Time 第一章辺りでー！二章、三章は余力あれば,http://www.slideshare.net/akiaki5516/tokyor23-doradora09,NA,Tokyo.R
+23,3,dichika,最近、混合効果モデルに興味をもった私がとりいそぎやったこと,http://www.slideshare.net/dichika/tokyor23,NA,Tokyo.R
+23,4,yokkuns,傾向スコア解析とUplift Modelling,http://www.slideshare.net/yokkuns/uplift-modelling,NA,Tokyo.R
+23,5,kos59125,CRAN Task Views でパッケージ管理,http://www.slideshare.net/kos59125/cran-taks-views,NA,Tokyo.R
+23,6,holidayworking,フォントの話,http://www.slideshare.net/holidayworking/ss-13089477,NA,Tokyo.R
+23,7,xiangze750,Rで力学系,http://www.slideshare.net/xiangze/dynamic-system-inrxiangze,NA,Tokyo.R
+23,8,kuwaken0925,Rでクリギング,NA,NA,Tokyo.R
+23,9,teramonagi,あるおっさんが記録し続けたデータを使えば人生一発逆転か？,http://www.slideshare.net/teramonagi/tokyo-r23-20120526,NA,Tokyo.R
+23,10,wdkz,RでつくるWebアプリ～rApache編～,http://www.slideshare.net/wdkz/rwebrapache,NA,Tokyo.R
+23,11,bob3bob3,Rでネットワーク分析勉強会のご紹介,http://geocities.yahoo.co.jp/gl/snatool/view/20120521/1337582460,NA,Tokyo.R
+24,1,doradora09,[入門セッション] Rによるやさしい統計学 第2-3章,http://www.slideshare.net/akiaki5516/tokyor24-doradora09-13568497,NA,Tokyo.R
+24,2,aad34210,NA,NA,NA,Tokyo.R
+24,3,sfchaos,RでReproducible Research,http://www.slideshare.net/sfchaos/rreproducible-research-13569000,NA,Tokyo.R
+24,4,kenchan0130_aki,Rでデータマイニング～サンプリングデータのケース～,http://www.slideshare.net/tadayukionishi/data-mining-with-r-bloom-algae,NA,Tokyo.R
+24,5,holidayworking,データベースのお話し,http://www.slideshare.net/holidayworking/ss-13583847,NA,Tokyo.R
+24,6,ta2c,パフォーマンス R vs C#,http://de.slideshare.net/ta2c/rvsc,NA,Tokyo.R
+24,7,yokkuns,マーケティングの統計分析-4.2プロモーション-,http://www.slideshare.net/yokkuns/tokyor24-yokkuns,NA,Tokyo.R
+25,1,doradora09,初心者セッション,NA,NA,Tokyo.R
+25,2,dichika,Rによるやさしい統計学第4章 母集団と標本,http://www.slideshare.net/dichika/ss-13868697,NA,Tokyo.R
+25,3,teramonagi,Rで学ぶ「倒産確率推定」,http://www.slideshare.net/teramonagi/r-de,NA,Tokyo.R
+25,4,Hiro_macchan,びっぐでぇた解析環境あ～る～主としてRevolution Rのご紹介～,http://www.slideshare.net/Hiro_macchan/tokyo-r25-hiromacchan,NA,Tokyo.R
+25,5,mrt_akm,ダイナミックOLS,NA,NA,Tokyo.R
+25,6,Dubian100,NA,NA,NA,Tokyo.R
+25,7,dichika,越えられない壁,http://www.slideshare.net/dichika/r25lt,NA,Tokyo.R
+25,8,Aki_Kasahara,Rの乱数でいろいろ乱数を作る,NA,NA,Tokyo.R
+25,9,wdkz,RStudioで始めるTシャツ祭り,http://rstudio-pubs-static.s3.amazonaws.com/1088_c801ae1b53a943bdbe6e8f324b4bd874.html,NA,Tokyo.R
+25,10,bob3bob3,告知,NA,NA,Tokyo.R
+26,1,holidayworking,NA,NA,NA,Tokyo.R
+26,2,Dubian,NA,NA,NA,Tokyo.R
+26,3,chiral,NA,NA,NA,Tokyo.R
+26,4,yokkuns,NA,NA,NA,Tokyo.R
+26,5,manozo,Tokyo.Rの輪,http://www.slideshare.net/manozo/tokyor,NA,Tokyo.R
+27,1,dichika,サンプリング方法とそれに基いた分析,NA,NA,Tokyo.R
+27,2,teramonagi,R de 学ぶ逆変換法,http://www.slideshare.net/teramonagi/r-14810107,NA,Tokyo.R
+27,3,holidayworking,ggplot2に入門してみた,http://www.slideshare.net/holidayworking/ggplot2-14866373,NA,Tokyo.R
+27,4,mikado_hito,僕の考える真の可愛い女性について(仮),NA,NA,Tokyo.R
+27,5,yokkuns,Rでカジュアルに異常検知 ChangeAnomalyDetectionパッケージ,NA,NA,Tokyo.R
+28,1,horihorio,Rによるやさしい統計学 第6章 2つの平均値を比較する,http://www.slideshare.net/horihorio/tokyor28textsession6,NA,Tokyo.R
+28,2,aad34210,初心者セッション1,http://www.slideshare.net/aad34210/tokyo-r28-1-16186883,NA,Tokyo.R
+28,3,yokkuns,初心者セッション2 Rでピボットテーブル,http://www.slideshare.net/yokkuns/r-16187142,NA,Tokyo.R
+28,4,dichika,シリーズ前処理2013：欠測データの補完 ,http://www.slideshare.net/dichika/maeshori-missing,NA,Tokyo.R
+28,5,sanoche16,Rで行うブランド資産測定～自由記述文章分析編～,http://www.slideshare.net/sanoche16/28tokyor,NA,Tokyo.R
+28,6,wdkz,shinyはじめました ,http://www.slideshare.net/wdkz/shiny-16178934,NA,Tokyo.R
+28,7,yokkuns,Rで階層ベイズモデル,http://www.slideshare.net/yokkuns/r-16189019,NA,Tokyo.R
+28,8,atg,標準偏差と不偏標準偏差とを母集団の大きさと標本の大きさとを変えて比較してみた,NA,NA,Tokyo.R
+28,9,bob3bob3,顔,NA,NA,Tokyo.R
+28,10,mits321,アッシェンフェルターのワイン方程式,NA,NA,Tokyo.R
+28,11,yokkuns,Rでレポートメール,http://www.slideshare.net/yokkuns/r-16189058,NA,Tokyo.R
+28,12,Hiro_macchan,Pythonはじめました,http://www.slideshare.net/Hiro_macchan/tokyo-r28ltss,NA,Tokyo.R
+29,1,h_chujo,Rによるやさしい統計学 第7章 分散分析,NA,NA,Tokyo.R
+29,2,doradora09,初心者セッション1,NA,NA,Tokyo.R
+29,3,mikado_hito,Rで始めるかもしれない顧客ベース分析,NA,NA,Tokyo.R
+29,4,showyou,mboostパッケージについて,NA,NA,Tokyo.R
+29,5,Soultoru,RでAHP ,http://www.slideshare.net/soultoru/rahp,NA,Tokyo.R
+29,6,sfchaos,シリーズ前処理2013：外れ値（仮）,http://www.slideshare.net/sfchaos/ss-16709258,NA,Tokyo.R
+29,7,Kentaro Taguchi,ベイジアンネットワークによる推論モデルの構築,NA,NA,Tokyo.R
+29,8,knzwtkfm,R＠Qiita,NA,NA,Tokyo.R
+29,9,yuukicammy,RとC++と画像処理 (PART2),NA,NA,Tokyo.R
+29,10,sanoche16,信号検出理論とR,NA,NA,Tokyo.R
+29,11,teramonagi,Tokyo.R 白熱教室「これからのRcppの話をしよう」,http://www.slideshare.net/teramonagi/tokyor-rcpp-16709700,NA,Tokyo.R
+29,12,kussuu000,Rのコーディングを勉強してみた,NA,NA,Tokyo.R
+29,13,argyle320,セイバーメトリクス,http://www.slideshare.net/mitsuoshimohata/ss-24464593,NA,Tokyo.R
+30,1,aad34210,初心者セッション1,http://www.slideshare.net/aad34210/tokyo-r30-beginner,NA,Tokyo.R
+30,2,aad34210,Rによるやさしい統計学 第7章 分散分析（後半）,http://www.slideshare.net/aad34210/tokyo-r30-anova,NA,Tokyo.R
+30,3,7CIT,初心者セッション2,NA,NA,Tokyo.R
+30,4,mikado_hito,協調フィルタリング入門,NA,NA,Tokyo.R
+30,5,tech_machii,歴史を学んでR言語の未来を考える,NA,NA,Tokyo.R
+30,6,bob3bob3,Rでコンジョイント分析,http://www.slideshare.net/bob3/r-19234607,NA,Tokyo.R
+30,7,teramonagi,plyrパッケージで君も前処理スタ☆,http://www.slideshare.net/teramonagi/tokyo-r30-20130420,NA,Tokyo.R
+30,8,yuukicammy,RとC++と画像処理 (PART3),NA,NA,Tokyo.R
+30,9,kos59125,.NET で書いて R で実行,NA,NA,Tokyo.R
+30,10,_TRIP_DANCER,fluentdとR でお手軽ログ解析,http://www.slideshare.net/michitakaiida/fluentdmongo-dbr,NA,Tokyo.R
+30,11,sfchaos,R 3.0.0 is released!,http://www.slideshare.net/sfchaos/r300-is-relased,NA,Tokyo.R
+30,12,nezuq,RでSPARQL,http://www.slideshare.net/nezuQ/rsparql,NA,Tokyo.R
+30,13,wdkz,R-3.0.0を使ってみてわかったn個のこと,http://www.slideshare.net/wdkz/tokyor30-wdkz,NA,Tokyo.R
+31,1,所沢義男,初心者セッション1,http://www.slideshare.net/TokorosawaYoshio/tokyor31-22286130,NA,Tokyo.R
+31,2,aad34210,Rによるやさしい統計学 第7章 分散分析（後半の後半）,http://www.slideshare.net/aad34210/tokyo-r30-anovapart2,NA,Tokyo.R
+31,3,hiratake55,中の人が語る seekR.jp の裏技（仮）,http://www.slideshare.net/hiratake55/seekrjp-22281554,NA,Tokyo.R
+31,4,sanoche16,始めよう多変量解析～主成分分析編～,http://www.slideshare.net/sanoche16/tokyor31-22291701,NA,Tokyo.R
+31,5,yokkuns,R言語で学ぶマーケティング分析 – 競争ポジショニング戦略 –,http://www.slideshare.net/yokkuns/r-22276096,NA,Tokyo.R
+31,6,a_bicky,R による自然言語処理入門（仮）,http://www.slideshare.net/abicky/r-22325351,NA,Tokyo.R
+31,7,gepuro,RとPythonによるデータ解析入門,http://www.slideshare.net/gepuro/rpython,NA,Tokyo.R
+31,8,tetsuroito,RでARIMAの話,http://www.slideshare.net/tetsuroito/31tokyor-lt,NA,Tokyo.R
+31,9,chiral,rzmqで並列分散コンピューティング,NA,NA,Tokyo.R
+31,10,teramonagi,可視化周辺の進化がヤヴァイ～rChartsを中心として～,http://www.slideshare.net/teramonagi/tokyo-r31-20130601,NA,Tokyo.R
+31,11,ts_3156,ABテストと結果の検定,http://www.slideshare.net/TerukiShinohara/ab-22285418,NA,Tokyo.R
+31,12,kos59125,R で自然順ソートを実装してみた,NA,NA,Tokyo.R
+32,1,doradora09,初心者セッション1,NA,NA,Tokyo.R
+32,2,後前川清,テキスト,NA,NA,Tokyo.R
+32,3,sanoche16,平均から正規分布まで,http://www.slideshare.net/sanoche16/ss-24443862,NA,Tokyo.R
+32,4,sato_mitsunori,実践で学ぶネットワーク分析,http://www.slideshare.net/MitsunoriSato/tokyor32-network-analysis-24442516,NA,Tokyo.R
+32,5,argyle320,質的変数の相関と因子分析,http://www.slideshare.net/mitsuoshimohata/ss-24419059,NA,Tokyo.R
+32,6,tech_machii,S言語拡張のアイデアと淘汰,NA,NA,Tokyo.R
+32,7,tanimocchi,サンプリングと推定(仮),NA,NA,Tokyo.R
+32,8,manabian,NA,NA,NA,Tokyo.R
+32,9,ts_3156,偽相関と偏相関係数,http://www.slideshare.net/TerukiShinohara/ss-24471453,NA,Tokyo.R
+32,10,ts_3156,ニコニコ動画のタグネットワークを描画してみた,http://www.slideshare.net/TerukiShinohara/ss-24717316,NA,Tokyo.R
+32,11,s3works,Rとオープンデータ(仮),http://www.slideshare.net/s3works/rapi,NA,Tokyo.R
+33,1,aad34210,初心者セッション1,http://www.slideshare.net/aad34210/tokyo-r33-beginner,NA,Tokyo.R
+33,2,argyle320,因子分析,http://www.slideshare.net/mitsuoshimohata/ss-25635356,NA,Tokyo.R
+33,3,horihorio,ロジスティック回帰の考え方・使い方,http://www.slideshare.net/horihorio/tokyo-r33-logi,NA,Tokyo.R
+33,4,TJO_datasci,Rで計量時系列分析～駆け足でCRANパッケージ総ざらい～,http://www.slideshare.net/takashijozaki1/tokyo-r130831-tjo,NA,Tokyo.R
+33,5,nxafmoishq08jXG,Rで項目反応理論、テキストマイニング、研修やってますという三題噺,NA,NA,Tokyo.R
+33,6,motivic_,21世紀の手法対決,http://www.slideshare.net/motivic/tokyo-r-lt-25759212,NA,Tokyo.R
+33,7,doradora09,NA,http://www.slideshare.net/akiaki5516/doradora09-lt-tokyor33,NA,Tokyo.R
+33,8,後前川清,僕がRを使って篠崎愛似の彼女を見つけるまで,NA,NA,Tokyo.R
+33,9,teramonagi,とある金融屋の統計技師が時系列解析してみた,http://www.slideshare.net/teramonagi/ss-25774147,NA,Tokyo.R
+33,10,Dubian,RcppEigen and SVD,http://www.slideshare.net/xiangze/rcppeigen-and-svd,NA,Tokyo.R
+33,11,kos59125,ゴミ箱のポジショントーク,http://blog.recyclebin.jp/archives/4034,NA,Tokyo.R
+33,12,qz70224,ひとり分散処理をやってみた,http://d.hatena.ne.jp/Oyamada/20130901/1378011172,NA,Tokyo.R
+33,13,0kayu,R+python で KAGGLE2値予測に挑戦!,http://www.slideshare.net/yurieoka37/rpytho,NA,Tokyo.R
+33,14,tanimocchi,相関係数と決定係数,http://www.slideshare.net/mocchi_/corelation-determinationregression-coefficient,NA,Tokyo.R
+33,15,langstat,機動戦士ガンダムのその後,NA,NA,Tokyo.R
+33,16,所沢義男,『データサイエンティストになれなかった皆さんへ(仮)』,NA,NA,Tokyo.R
+33,17,DTakaguchi,位置情報アプリのチェックインデータを使った相関分析,NA,NA,Tokyo.R
+34,1,doradora09,初心者セッション1,NA,NA,Tokyo.R
+34,2,gepuro,決定木,http://www.slideshare.net/gepuro/decision-tree-27139297,NA,Tokyo.R
+34,3,yokkuns,共分散構造分析,NA,NA,Tokyo.R
+34,4,fuji_fujimon,MCMCとかの理論的なところをRで例を見ながら的な,http://www.slideshare.net/fuji_fujimon/mcmc-26910131,NA,Tokyo.R
+34,5,sfchaos,アクションマイニングによる最適アクションの導出,http://www.slideshare.net/sfchaos/ss-27123062,NA,Tokyo.R
+34,6,yokkuns,ドリコムの分析環境とデータサイエンス活用事例,http://www.slideshare.net/yokkuns/20130906-25950627,NA,Tokyo.R
+34,7,中原誠,決定木を用いた、異性タイプの嗜好パターン分析,NA,NA,Tokyo.R
+35,1,doradora09,初心者セッション1,http://www.slideshare.net/akiaki5516/10rver25,NA,Tokyo.R
+35,2,yokkuns,人工データの発生,http://www.slideshare.net/yokkuns/tokyor35,NA,Tokyo.R
+35,3,Nikoriks,Rユーザーのための？Julia入門,http://www.slideshare.net/Nikoriks/julia-28059489,NA,Tokyo.R
+35,4,sfchaos,Data.tableパッケージで大規模データをサクッと処理する,http://www.slideshare.net/sfchaos/datatable,NA,Tokyo.R
+35,5,Med_KU,Rでネットワーク解析とGIS,http://www.slideshare.net/Med_KU/20131109tokyor35,NA,Tokyo.R
+35,6,kos59125,R Advent Calendar 2013 のご案内,NA,NA,Tokyo.R
+35,7,tetsuroito,ロバスティーヌのお悩み,http://www.slideshare.net/tetsuroito/tokyo-r-lt-20131109,NA,Tokyo.R
+35,8,hoxo_m,5分でわかるベイズ確率,NA,NA,Tokyo.R
+35,9,chiral,Multi-Armed-Bundit in R,http://www.slideshare.net/MasayukiIsobe/tokyo-r35-bandit,NA,Tokyo.R
+35,10,gepuro,しゅうかつ,NA,NA,Tokyo.R
+35,11,Kazuo_Ishii_PhD,ソフトウェアジャパン2014の紹介,NA,NA,Tokyo.R
+35,12,後前川清,西内まりやとセブンイレブンのドミナント戦略のKPIとVisualisationについて,NA,NA,Tokyo.R
+36,1,doradora09,10分でわかるR言語入門ver2.6,https://www.slideshare.net/akiaki5516/10rver2-6,NA,Tokyo.R
+36,2,TJO_datasci,Rによるやさしい統計学 第20章 検定力分析によるサンプルサイズの決定,https://www.slideshare.net/takashijozaki1/tokyo-r140222-tjo,NA,Tokyo.R
+36,3,teramonagi,～knitrパッケージではじめる～『R MarkdownでReproducible Research』,https://www.slideshare.net/teramonagi/tokyo-r36-20140222,NA,Tokyo.R
+36,4,Med_KU,RでSPADEとSNEを使って次元削減と可視化,https://www.slideshare.net/Med_KU/20140222-tokyor36-rspadevisne,NA,Tokyo.R
+36,5,sanoche16,Rで学ぶ離散選択モデル,NA,NA,Tokyo.R
+36,6,yokkuns,EasyHTMLReportの紹介 ,https://www.slideshare.net/yokkuns/easyhtmlreport,NA,Tokyo.R
+36,7,所沢義男,dplyrパッケージ徹底解説,https://www.slideshare.net/TokorosawaYoshio/tokyor36,NA,Tokyo.R
+36,8,れいや,ゲームパラメータの決定方法,NA,NA,Tokyo.R
+36,9,Prunus1350,Rで部分空間法,https://www.slideshare.net/Prunus1350/tokyo-r-36lt,NA,Tokyo.R
+36,10,tetsuroito,Rと確率分布,https://www.slideshare.net/tetsuroito/20140222-tokyor-lt-r,NA,Tokyo.R
+36,11,kos59125,RStan で作る人工データ,NA,NA,Tokyo.R
+36,12,housecat442,Rで見るサーモンの価格周期性,https://www.slideshare.net/shotayasui/salmon-cycle,NA,Tokyo.R
+37,1,dradora09,10分でわかるR言語入門ver2.7,https://www.slideshare.net/akiaki5516/10rver27,NA,Tokyo.R
+37,2,Prunus1350,テキスト ,https://www.slideshare.net/Prunus1350/tokyo-r-37,NA,Tokyo.R
+37,3,srctaha,Rによる特徴選択,https://www.slideshare.net/sercantahaahi/feature-selection-with-r-in-jp,NA,Tokyo.R
+37,4,sanoche16,Rで学ぶ離散選択モデル(リベンジ) ,https://www.slideshare.net/sanoche16/tokyo-r37thmlogit,NA,Tokyo.R
+37,5,housecat442,Rでお部屋探し ,https://www.slideshare.net/shotayasui/for-slide-share-32879487,NA,Tokyo.R
+37,6,aich8,Rで分位点回帰,NA,NA,Tokyo.R
+37,7,菅井,rchartsによるインタラクティブな可視化表現,https://www.slideshare.net/yasuyukisugai/r-charts,NA,Tokyo.R
+37,8,Hiro_macchan,ちょっと詳しい欠測データの補完,NA,NA,Tokyo.R
+37,9,yoshi_flt,生物成長曲線予測の事例 ,https://www.slideshare.net/yoshi_flt/tokyo-r37lt,NA,Tokyo.R
+37,10,所沢義男,暮らしの中のデータマイニング その1 〜初対面の人に会うとき〜,NA,NA,Tokyo.R
+37,11,tetsuroito,カーネルとSVM ,https://www.slideshare.net/tetsuroito/20140329-tokyo-r-lt-svm,NA,Tokyo.R
+37,12,soultoru,Rで3次元嫁を作る方法,https://www.slideshare.net/TohruKobayashi/rlint,NA,Tokyo.R
+38,1,aad34210,導入セッション,NA,NA,Tokyo.R
+38,2,Prunus1350,テキスト ,NA,NA,Tokyo.R
+38,3,所沢義男,パッケージの作り方 ,NA,NA,Tokyo.R
+38,4,sfchaos,機械学習のモデル構築・評価について,https://www.slideshare.net/sfchaos/ss-33703018,NA,Tokyo.R
+38,5,horihorio,状態空間モデルの考え方•使い方 ,https://www.slideshare.net/horihorio/tokyo-r38-33704463,NA,Tokyo.R
+38,6,berobero11,100人のための統計解析 – 和食レストラン編 ,https://www.slideshare.net/berobero11/100-33704777,NA,Tokyo.R
+38,7,kos59125,R で学ぶ関数型プログラミング,http://blog.recyclebin.jp/archives/4250,NA,Tokyo.R
+38,8,mtknnktm,Shinyを自由に使ってみる,https://www.slideshare.net/MasanoriTakano1/tokyor-33705499,NA,Tokyo.R
+38,9,gg_hatano,Rで野球のデータ解析がしたい,https://www.slideshare.net/takumahatano18/r-33700633,NA,Tokyo.R
+38,10,hoxo_m,swirl パッケージでインタラクティブ学習,https://www.slideshare.net/hoxo_m/swirl-33702974,NA,Tokyo.R
+38,11,tanimocchi,アンケート分析で、AICを自力でstepより改善してみた ,https://www.slideshare.net/mocchi_/opt-aic-questionnaireanalysis,NA,Tokyo.R
+38,12,CrowdSolving_jp,某データ分析コンペサイトの話 ,NA,NA,Tokyo.R
+39,1,aad34210,続はじめてのR,https://www.slideshare.net/aad34210/tokyo-r39-beginner,NA,Tokyo.R
+39,2,yokkuns,Rで学ぶデータマイニングⅠ 第14〜15章 ,https://www.slideshare.net/yokkuns/tokyor39-yokkuns,NA,Tokyo.R
+39,3,data_sciesotist,(1)RStudioの日本語化(2)データサイエンスの研修やってます ,https://www.slideshare.net/data_sciesotist/39th-tokyor,NA,Tokyo.R
+39,4,gg_hatano,Rで野球解析,https://www.slideshare.net/takumahatano18/r-35327687,NA,Tokyo.R
+39,5,TeitoNakagawa,Excelで集計分析 ,NA,NA,Tokyo.R
+39,6,Hiro_macchan,Rと地図（とベイズ）のお話 ,NA,NA,Tokyo.R
+39,7,siero5335,Devium を使ったヒト血清中化学物質の解析,https://www.slideshare.net/eguchiakifumi/tokyo-r-35327399,NA,Tokyo.R
+39,8,teramonagi,お前の逐モン、GETだぜ！ ,https://www.slideshare.net/teramonagi/get-35331018,NA,Tokyo.R
+39,9,salinger001101,Rでダイエット ,https://www.slideshare.net/tojimat/diet-by-r,NA,Tokyo.R
+39,10,kndt84,NA,NA,NA,Tokyo.R
+39,11,gepuro,家に早く帰りたい ,https://www.slideshare.net/gepuro/ss-35422184,NA,Tokyo.R
+39,12,igjit,((Rで)書く((もっとRっぽい) Lisp) インタプリタ),https://www.slideshare.net/igjit/r-r-lisp,NA,Tokyo.R
+39,13,sorami,RとJulia,https://speakerdeck.com/sorami/tokyor-number-39-lt-rtojulia,NA,Tokyo.R
+39,14,satkita,高速で前処理するNYSOL ,https://www.slideshare.net/SatoshiKitajima2/nysol-tokyor39,NA,Tokyo.R
+40,1,aad34210,はじめてのR,https://www.slideshare.net/aad34210/tokyo-r38,NA,Tokyo.R
+40,2,aad34210,続はじめてのR,https://www.slideshare.net/aad34210/tokyo-r39-beginner,NA,Tokyo.R
+40,3,所沢義男,Rで学ぶデータマイニングⅠ 第16章 ,https://www.slideshare.net/TokorosawaYoshio/tokyor40-35862024,NA,Tokyo.R
+40,4,kos59125,乱数の話,http://blog.recyclebin.jp/archives/4337,NA,Tokyo.R
+40,5,argyle320,ハイブリッド型樹木法 ,https://www.slideshare.net/mitsuoshimohata/ss-35827973,NA,Tokyo.R
+40,6,housecat442,動学的パネルデータ分析,https://www.slideshare.net/shotayasui/dynamic-panel-in-tokyo-r,NA,Tokyo.R
+40,7,0kayu,独立成分分析 ,https://www.slideshare.net/yurieoka37/ss-35866478,NA,Tokyo.R
+40,8,hisashinakayama,おとうさんでもできます ,https://www.slideshare.net/HisashiNakayama/r40lt,NA,Tokyo.R
+40,9,data_sciesotist,RでExperience APIをいじる,https://www.slideshare.net/data_sciesotist/tokyo-r-20140614,NA,Tokyo.R
+40,10,hoxo_m,チェビシェフの不等式,https://www.slideshare.net/hoxo_m/ss-35863564,NA,Tokyo.R
+40,11,tetsuroito,socceR！,https://www.slideshare.net/tetsuroito/20140614-tokyo-r-lt,NA,Tokyo.R
+40,12,yamano357,NA,NA,NA,Tokyo.R
+41,1,doradora09,10分でわかるR言語入門ver2.8,https://www.slideshare.net/akiaki5516/10rver28-14-0712,NA,Tokyo.R
+41,2,kotatyamatema,初めてのがR 〜R使いへの道,NA,NA,Tokyo.R
+41,3,未定,Rで学ぶデータマイニングⅠ 第17章 ,NA,NA,Tokyo.R
+41,4,kaz_yos,"Rパッケージ作成ハドリー風: devtools, roxygen2, testthatを添えて",http://t.co/zQ1girwhLo,NA,Tokyo.R
+41,5,makiosum,I/Oについて　~ミスマッチを減らせ！～ ,NA,NA,Tokyo.R
+41,6,salinger001101,サポートベクターマシン入門 〜オブジェクト自動識別システムの構築〜,http://www.slideshare.net/tojimat/tokyor-41,NA,Tokyo.R
+41,7,yokkuns,とあるソーシャルゲームで行われた継続に関する分析,NA,NA,Tokyo.R
+41,8,れいや,NA,NA,NA,Tokyo.R
+41,9,中原誠,NA,NA,NA,Tokyo.R
+41,10,所沢義男,Rから通知をとばす,http://www.slideshare.net/TokorosawaYoshio/r41-36956682,NA,Tokyo.R
+41,11,u_ribo,Yokohama.Rはじめますた ,http://suryu.me/Talk_TokyoR41/#1,NA,Tokyo.R
+41,12,atg,久しぶりのISM ,NA,NA,Tokyo.R
+41,13,hiratake55,UseR!2014@LA ,http://www.slideshare.net/hiratake55/tokyo-r-user2014v01,NA,Tokyo.R
+42,1,gepuro,R入門（dplyrでデータ加工),http://www.slideshare.net/gepuro/rdplyrtokyor42,NA,Tokyo.R
+42,2,yokkuns,ggplot2によるデータ可視化,http://www.slideshare.net/yokkuns/tokyor42-ggplot2,NA,Tokyo.R
+42,3,yokkuns,Rで学ぶデータマイニングⅠ 第18章 ,http://www.slideshare.net/yokkuns/tokyor42rdatamining18,NA,Tokyo.R
+42,4,yamano357,はじめようテキスト自動要約,http://rpubs.com/yamano357/27317,NA,Tokyo.R
+42,5,teramonagi,パッケージ作成法（RStudio編）,http://www.slideshare.net/teramonagi/r-38511360,NA,Tokyo.R
+42,6,所沢義男,データハンドリング系の何か,http://www.slideshare.net/TokorosawaYoshio/r42-38524641,NA,Tokyo.R
+42,7,haroperi,Rの影について ,NA,NA,Tokyo.R
+42,8,hoxo_m,Bokete Player の裏側 ,http://t.co/eJTScyS8YE,NA,Tokyo.R
+42,9,satkita,M-1グランプリ 〜前処理の頂点は誰だ!?〜,http://www.slideshare.net/SatoshiKitajima2/m1-38513054,NA,Tokyo.R
+42,10,motivic_,Rで代数統計,http://www.slideshare.net/motivic/tokyor42algstat,NA,Tokyo.R
+42,11,weda_654,dummiesパッケージ,http://www.slideshare.net/weda654/dummies-38555423,NA,Tokyo.R
+43,1,doradora09,10分でわかるR言語入門ver2.9,http://www.slideshare.net/akiaki5516/10rver29-14-0920,NA,Tokyo.R
+43,2,kashitan,前処理入門 ,https://www.slideshare.net/kashitan/20140920-tokyo-r43,NA,Tokyo.R
+43,3,azu-azu,Rで学ぶ傾向スコア解析入門,NA,NA,Tokyo.R
+43,4,siero5335,Rネイティブのbayesian inferenceである、LaplacesDemonの紹介 ,http://www.slideshare.net/eguchiakifumi/tokyo-r-43,NA,Tokyo.R
+43,5,rossleedham,Getting Started with Shiny ,NA,NA,Tokyo.R
+43,6,yokkuns,ykmeansパッケージ,NA,NA,Tokyo.R
+43,7,shige_kei,NA,NA,NA,Tokyo.R
+43,8,fqz7c3,32bit Windows で頑張るRandom Forest,NA,NA,Tokyo.R
+43,9,0kayu,japanr ,NA,NA,Tokyo.R
+43,10,hoxo_m,pipeR の使い方 ,http://www.slideshare.net/hoxo_m/piper-39315306,NA,Tokyo.R
+43,11,kos59125,Reactive Programming with R,http://1drv.ms/1sbZsIb ,NA,Tokyo.R
+44,1,doradora09,10分でわかるR言語入門,http://t.co/jC5EjrzqBX,tutorial,Tokyo.R
+44,2,horihorio,テキスト：セグメンテーション ,http://t.co/Ti6IBnYMSv,NA,Tokyo.R
+44,3,sanoche16,シリーズ前処理2014 小綺麗なデータ作成 ,http://www.slideshare.net/sanoche16/part2-40139848,manipulation,Tokyo.R
+44,4,soultoru,Jubatusつかってみたよ ,http://t.co/Ge8vX0aU8t,NA,Tokyo.R
+44,5,G.O.R.N,Cox Proportional Hazard Model on Azure ML,NA,NA,Tokyo.R
+44,6,sfchaos,シリーズ前処理2014 次元削減,NA,manipulation,Tokyo.R
+44,7,yamakita_lab,RColorBrewerとcolorRampPalette()で地図描画 ,http://t.co/kOcoX1Jwo7,NA,Tokyo.R
+44,8,weda_654,Rユーザーのためのmコマンド ,http://t.co/z8JXHADRvl,NA,Tokyo.R
+44,9,kumisky,ガチで理系な方に、その相関は間違ってます、と言われたマーケ女子の話 ,NA,NA,Tokyo.R
+44,10,yokkuns,近況報告 ,NA,NA,Tokyo.R
+44,11,所沢義男,この1年間を振り返って ,http://t.co/anSOEGo5ou,NA,Tokyo.R
+44,12,tetsuroito,これからのRとデータの話をしよう ,http://t.co/TI5oZSyEKY,NA,Tokyo.R
+44,13,yamano357,TokyoRの話,https://t.co/BoUzNNJagt,NA,Tokyo.R
+44,14,siero5335,引用回数Top100にランクインした10の統計論文,http://t.co/wHOfu8yYZd,NA,Tokyo.R
 45,1,doradora09,10分で分かるR言語入門3分バージョン,http://www.slideshare.net/akiaki5516/10r-150117upload,tutorial,Tokyo.R
 45,2,aad34210,続はじめてのR,http://www.slideshare.net/aad34210/tokyo-r45-beginner2,tutorial,Tokyo.R
 45,3,yokkuns,Rによる回帰分析 ,NA,statistics,Tokyo.R
@@ -79,567 +589,84 @@ Number,Session,Speaker,Title,Slide,Topic,Community
 45,6,tyatsuta,typedFunction ∼型情報でRをスピードアップ ,http://www.slideshare.net/yatsuta/150117tokyor,system,Tokyo.R
 45,7,yokkuns,カーネル多変量解析第2章 カーネル多変量解析の仕組み ,http://www.slideshare.net/yokkuns/tokyor45,statistics,Tokyo.R
 45,8,salinger001101,Jenkins によるレポートスクリプト管理,http://www.slideshare.net/tojimat/jenkins-43609342,knowlegde,Tokyo.R
-45,9,gg_hatano,巨人の勝率を上げるbot作りました ,http://www.slideshare.net/takumahatano18/tokyo-r-45,,Tokyo.R
+45,9,gg_hatano,巨人の勝率を上げるbot作りました ,http://www.slideshare.net/takumahatano18/tokyo-r-45,NA,Tokyo.R
 45,10,ksmzn,Shiny で確率分布を学ぶアプリ作った,http://www.slideshare.net/ksmzn/shinyshinyd3js,shiny,Tokyo.R
-45,11,所沢義男,男の価値は作ったパッケージで決まる,http://www.slideshare.net/TokorosawaYoshio/r45lt,,Tokyo.R
-45,12,wonder_zone,分析で好みの娘をぶっこぬく,http://www.slideshare.net/k_mori/tokyor-45,,Tokyo.R
-45,13,hiratake55,R for Cloud Computing,http://www.slideshare.net/hiratake55/r-for-cloud-computing-43609330,,Tokyo.R
-45,14,doradora09,KHCoderご紹介,http://www.slideshare.net/akiaki5516/15-0117-khcoder-43609276,,Tokyo.R
-44,1,doradora09,10分でわかるR言語入門,http://t.co/jC5EjrzqBX,tutorial,Tokyo.R
-44,2,horihorio,テキスト：セグメンテーション ,http://t.co/Ti6IBnYMSv,,Tokyo.R
-44,3,sanoche16,シリーズ前処理2014 小綺麗なデータ作成 ,http://www.slideshare.net/sanoche16/part2-40139848,manipulation,Tokyo.R
-44,4,soultoru,Jubatusつかってみたよ ,http://t.co/Ge8vX0aU8t,,Tokyo.R
-44,5,G.O.R.N,Cox Proportional Hazard Model on Azure ML,NA,,Tokyo.R
-44,6,sfchaos,シリーズ前処理2014 次元削減,NA,manipulation,Tokyo.R
-44,7,yamakita_lab,RColorBrewerとcolorRampPalette()で地図描画 ,http://t.co/kOcoX1Jwo7,,Tokyo.R
-44,8,weda_654,Rユーザーのためのmコマンド ,http://t.co/z8JXHADRvl,,Tokyo.R
-44,9,kumisky,ガチで理系な方に、その相関は間違ってます、と言われたマーケ女子の話 ,NA,,Tokyo.R
-44,10,yokkuns,近況報告 ,NA,,Tokyo.R
-44,11,所沢義男,この1年間を振り返って ,http://t.co/anSOEGo5ou,,Tokyo.R
-44,12,tetsuroito,これからのRとデータの話をしよう ,http://t.co/TI5oZSyEKY,,Tokyo.R
-44,13,yamano357,TokyoRの話,https://t.co/BoUzNNJagt,,Tokyo.R
-44,14,siero5335,引用回数Top100にランクインした10の統計論文,http://t.co/wHOfu8yYZd,,Tokyo.R
-43,1,doradora09,10分でわかるR言語入門ver2.9,http://www.slideshare.net/akiaki5516/10rver29-14-0920,,Tokyo.R
-43,2,kashitan,前処理入門 ,https://www.slideshare.net/kashitan/20140920-tokyo-r43,,Tokyo.R
-43,3,azu-azu,Rで学ぶ傾向スコア解析入門,NA,,Tokyo.R
-43,4,siero5335,Rネイティブのbayesian inferenceである、LaplacesDemonの紹介 ,http://www.slideshare.net/eguchiakifumi/tokyo-r-43,,Tokyo.R
-43,5,rossleedham,Getting Started with Shiny ,NA,,Tokyo.R
-43,6,yokkuns,ykmeansパッケージ,NA,,Tokyo.R
-43,7,shige_kei,NA,NA,,Tokyo.R
-43,8,fqz7c3,32bit Windows で頑張るRandom Forest,NA,,Tokyo.R
-43,9,0kayu,japanr ,NA,,Tokyo.R
-43,10,hoxo_m,pipeR の使い方 ,http://www.slideshare.net/hoxo_m/piper-39315306,,Tokyo.R
-43,11,kos59125,Reactive Programming with R,http://1drv.ms/1sbZsIb ,,Tokyo.R
-42,1,gepuro,R入門（dplyrでデータ加工),http://www.slideshare.net/gepuro/rdplyrtokyor42,,Tokyo.R
-42,2,yokkuns,ggplot2によるデータ可視化,http://www.slideshare.net/yokkuns/tokyor42-ggplot2,,Tokyo.R
-42,3,yokkuns,Rで学ぶデータマイニングⅠ 第18章 ,http://www.slideshare.net/yokkuns/tokyor42rdatamining18,,Tokyo.R
-42,4,yamano357,はじめようテキスト自動要約,http://rpubs.com/yamano357/27317,,Tokyo.R
-42,5,teramonagi,パッケージ作成法（RStudio編）,http://www.slideshare.net/teramonagi/r-38511360,,Tokyo.R
-42,6,所沢義男,データハンドリング系の何か,http://www.slideshare.net/TokorosawaYoshio/r42-38524641,,Tokyo.R
-42,7,haroperi,Rの影について ,NA,,Tokyo.R
-42,8,hoxo_m,Bokete Player の裏側 ,http://t.co/eJTScyS8YE,,Tokyo.R
-42,9,satkita,M-1グランプリ 〜前処理の頂点は誰だ!?〜,http://www.slideshare.net/SatoshiKitajima2/m1-38513054,,Tokyo.R
-42,10,motivic_,Rで代数統計,http://www.slideshare.net/motivic/tokyor42algstat,,Tokyo.R
-42,11,weda_654,dummiesパッケージ,http://www.slideshare.net/weda654/dummies-38555423,,Tokyo.R
-41,1,doradora09,10分でわかるR言語入門ver2.8,https://www.slideshare.net/akiaki5516/10rver28-14-0712,,Tokyo.R
-41,2,kotatyamatema,初めてのがR 〜R使いへの道,NA,,Tokyo.R
-41,3,未定,Rで学ぶデータマイニングⅠ 第17章 ,NA,,Tokyo.R
-41,4,kaz_yos,"Rパッケージ作成ハドリー風: devtools, roxygen2, testthatを添えて",http://t.co/zQ1girwhLo,,Tokyo.R
-41,5,makiosum,I/Oについて　~ミスマッチを減らせ！～ ,NA,,Tokyo.R
-41,6,salinger001101,サポートベクターマシン入門 〜オブジェクト自動識別システムの構築〜,http://www.slideshare.net/tojimat/tokyor-41,,Tokyo.R
-41,7,yokkuns,とあるソーシャルゲームで行われた継続に関する分析,NA,,Tokyo.R
-41,8,れいや,NA,NA,,Tokyo.R
-41,9,中原誠,NA,NA,,Tokyo.R
-41,10,所沢義男,Rから通知をとばす,http://www.slideshare.net/TokorosawaYoshio/r41-36956682,,Tokyo.R
-41,11,u_ribo,Yokohama.Rはじめますた ,http://suryu.me/Talk_TokyoR41/#1,,Tokyo.R
-41,12,atg,久しぶりのISM ,NA,,Tokyo.R
-41,13,hiratake55,UseR!2014@LA ,http://www.slideshare.net/hiratake55/tokyo-r-user2014v01,,Tokyo.R
-40,1,aad34210,はじめてのR,https://www.slideshare.net/aad34210/tokyo-r38,,Tokyo.R
-40,2,aad34210,続はじめてのR,https://www.slideshare.net/aad34210/tokyo-r39-beginner,,Tokyo.R
-40,3,所沢義男,Rで学ぶデータマイニングⅠ 第16章 ,https://www.slideshare.net/TokorosawaYoshio/tokyor40-35862024,,Tokyo.R
-40,4,kos59125,乱数の話,http://blog.recyclebin.jp/archives/4337,,Tokyo.R
-40,5,argyle320,ハイブリッド型樹木法 ,https://www.slideshare.net/mitsuoshimohata/ss-35827973,,Tokyo.R
-40,6,housecat442,動学的パネルデータ分析,https://www.slideshare.net/shotayasui/dynamic-panel-in-tokyo-r,,Tokyo.R
-40,7,0kayu,独立成分分析 ,https://www.slideshare.net/yurieoka37/ss-35866478,,Tokyo.R
-40,8,hisashinakayama,おとうさんでもできます ,https://www.slideshare.net/HisashiNakayama/r40lt,,Tokyo.R
-40,9,data_sciesotist,RでExperience APIをいじる,https://www.slideshare.net/data_sciesotist/tokyo-r-20140614,,Tokyo.R
-40,10,hoxo_m,チェビシェフの不等式,https://www.slideshare.net/hoxo_m/ss-35863564,,Tokyo.R
-40,11,tetsuroito,socceR！,https://www.slideshare.net/tetsuroito/20140614-tokyo-r-lt,,Tokyo.R
-40,12,yamano357,NA,NA,,Tokyo.R
-39,1,aad34210,続はじめてのR,https://www.slideshare.net/aad34210/tokyo-r39-beginner,,Tokyo.R
-39,2,yokkuns,Rで学ぶデータマイニングⅠ 第14〜15章 ,https://www.slideshare.net/yokkuns/tokyor39-yokkuns,,Tokyo.R
-39,3,data_sciesotist,(1)RStudioの日本語化(2)データサイエンスの研修やってます ,https://www.slideshare.net/data_sciesotist/39th-tokyor,,Tokyo.R
-39,4,gg_hatano,Rで野球解析,https://www.slideshare.net/takumahatano18/r-35327687,,Tokyo.R
-39,5,TeitoNakagawa,Excelで集計分析 ,NA,,Tokyo.R
-39,6,Hiro_macchan,Rと地図（とベイズ）のお話 ,NA,,Tokyo.R
-39,7,siero5335,Devium を使ったヒト血清中化学物質の解析,https://www.slideshare.net/eguchiakifumi/tokyo-r-35327399,,Tokyo.R
-39,8,teramonagi,お前の逐モン、GETだぜ！ ,https://www.slideshare.net/teramonagi/get-35331018,,Tokyo.R
-39,9,salinger001101,Rでダイエット ,https://www.slideshare.net/tojimat/diet-by-r,,Tokyo.R
-39,10,kndt84,NA,NA,,Tokyo.R
-39,11,gepuro,家に早く帰りたい ,https://www.slideshare.net/gepuro/ss-35422184,,Tokyo.R
-39,12,igjit,((Rで)書く((もっとRっぽい) Lisp) インタプリタ),https://www.slideshare.net/igjit/r-r-lisp,,Tokyo.R
-39,13,sorami,RとJulia,https://speakerdeck.com/sorami/tokyor-number-39-lt-rtojulia,,Tokyo.R
-39,14,satkita,高速で前処理するNYSOL ,https://www.slideshare.net/SatoshiKitajima2/nysol-tokyor39,,Tokyo.R
-38,1,aad34210,導入セッション,NA,,Tokyo.R
-38,2,Prunus1350,テキスト ,NA,,Tokyo.R
-38,3,所沢義男,パッケージの作り方 ,NA,,Tokyo.R
-38,4,sfchaos,機械学習のモデル構築・評価について,https://www.slideshare.net/sfchaos/ss-33703018,,Tokyo.R
-38,5,horihorio,状態空間モデルの考え方•使い方 ,https://www.slideshare.net/horihorio/tokyo-r38-33704463,,Tokyo.R
-38,6,berobero11,100人のための統計解析 – 和食レストラン編 ,https://www.slideshare.net/berobero11/100-33704777,,Tokyo.R
-38,7,kos59125,R で学ぶ関数型プログラミング,http://blog.recyclebin.jp/archives/4250,,Tokyo.R
-38,8,mtknnktm,Shinyを自由に使ってみる,https://www.slideshare.net/MasanoriTakano1/tokyor-33705499,,Tokyo.R
-38,9,gg_hatano,Rで野球のデータ解析がしたい,https://www.slideshare.net/takumahatano18/r-33700633,,Tokyo.R
-38,10,hoxo_m,swirl パッケージでインタラクティブ学習,https://www.slideshare.net/hoxo_m/swirl-33702974,,Tokyo.R
-38,11,tanimocchi,アンケート分析で、AICを自力でstepより改善してみた ,https://www.slideshare.net/mocchi_/opt-aic-questionnaireanalysis,,Tokyo.R
-38,12,CrowdSolving_jp,某データ分析コンペサイトの話 ,NA,,Tokyo.R
-37,1,dradora09,10分でわかるR言語入門ver2.7,https://www.slideshare.net/akiaki5516/10rver27,,Tokyo.R
-37,2,Prunus1350,テキスト ,https://www.slideshare.net/Prunus1350/tokyo-r-37,,Tokyo.R
-37,3,srctaha,Rによる特徴選択,https://www.slideshare.net/sercantahaahi/feature-selection-with-r-in-jp,,Tokyo.R
-37,4,sanoche16,Rで学ぶ離散選択モデル(リベンジ) ,https://www.slideshare.net/sanoche16/tokyo-r37thmlogit,,Tokyo.R
-37,5,housecat442,Rでお部屋探し ,https://www.slideshare.net/shotayasui/for-slide-share-32879487,,Tokyo.R
-37,6,aich8,Rで分位点回帰,NA,,Tokyo.R
-37,7,菅井,rchartsによるインタラクティブな可視化表現,https://www.slideshare.net/yasuyukisugai/r-charts,,Tokyo.R
-37,8,Hiro_macchan,ちょっと詳しい欠測データの補完,NA,,Tokyo.R
-37,9,yoshi_flt,生物成長曲線予測の事例 ,https://www.slideshare.net/yoshi_flt/tokyo-r37lt,,Tokyo.R
-37,10,所沢義男,暮らしの中のデータマイニング その1 〜初対面の人に会うとき〜,NA,,Tokyo.R
-37,11,tetsuroito,カーネルとSVM ,https://www.slideshare.net/tetsuroito/20140329-tokyo-r-lt-svm,,Tokyo.R
-37,12,soultoru,Rで3次元嫁を作る方法,https://www.slideshare.net/TohruKobayashi/rlint,,Tokyo.R
-36,1,doradora09,10分でわかるR言語入門ver2.6,https://www.slideshare.net/akiaki5516/10rver2-6,,Tokyo.R
-36,2,TJO_datasci,Rによるやさしい統計学 第20章 検定力分析によるサンプルサイズの決定,https://www.slideshare.net/takashijozaki1/tokyo-r140222-tjo,,Tokyo.R
-36,3,teramonagi,～knitrパッケージではじめる～『R MarkdownでReproducible Research』,https://www.slideshare.net/teramonagi/tokyo-r36-20140222,,Tokyo.R
-36,4,Med_KU,RでSPADEとSNEを使って次元削減と可視化,https://www.slideshare.net/Med_KU/20140222-tokyor36-rspadevisne,,Tokyo.R
-36,5,sanoche16,Rで学ぶ離散選択モデル,NA,,Tokyo.R
-36,6,yokkuns,EasyHTMLReportの紹介 ,https://www.slideshare.net/yokkuns/easyhtmlreport,,Tokyo.R
-36,7,所沢義男,dplyrパッケージ徹底解説,https://www.slideshare.net/TokorosawaYoshio/tokyor36,,Tokyo.R
-36,8,れいや,ゲームパラメータの決定方法,NA,,Tokyo.R
-36,9,Prunus1350,Rで部分空間法,https://www.slideshare.net/Prunus1350/tokyo-r-36lt,,Tokyo.R
-36,10,tetsuroito,Rと確率分布,https://www.slideshare.net/tetsuroito/20140222-tokyor-lt-r,,Tokyo.R
-36,11,kos59125,RStan で作る人工データ,NA,,Tokyo.R
-36,12,housecat442,Rで見るサーモンの価格周期性,https://www.slideshare.net/shotayasui/salmon-cycle,,Tokyo.R
-35,1,doradora09,初心者セッション1,http://www.slideshare.net/akiaki5516/10rver25,,Tokyo.R
-35,2,yokkuns,人工データの発生,http://www.slideshare.net/yokkuns/tokyor35,,Tokyo.R
-35,3,Nikoriks,Rユーザーのための？Julia入門,http://www.slideshare.net/Nikoriks/julia-28059489,,Tokyo.R
-35,4,sfchaos,Data.tableパッケージで大規模データをサクッと処理する,http://www.slideshare.net/sfchaos/datatable,,Tokyo.R
-35,5,Med_KU,Rでネットワーク解析とGIS,http://www.slideshare.net/Med_KU/20131109tokyor35,,Tokyo.R
-35,6,kos59125,R Advent Calendar 2013 のご案内,NA,,Tokyo.R
-35,7,tetsuroito,ロバスティーヌのお悩み,http://www.slideshare.net/tetsuroito/tokyo-r-lt-20131109,,Tokyo.R
-35,8,hoxo_m,5分でわかるベイズ確率,NA,,Tokyo.R
-35,9,chiral,Multi-Armed-Bundit in R,http://www.slideshare.net/MasayukiIsobe/tokyo-r35-bandit,,Tokyo.R
-35,10,gepuro,しゅうかつ,NA,,Tokyo.R
-35,11,Kazuo_Ishii_PhD,ソフトウェアジャパン2014の紹介,NA,,Tokyo.R
-35,12,後前川清,西内まりやとセブンイレブンのドミナント戦略のKPIとVisualisationについて,NA,,Tokyo.R
-34,1,doradora09,初心者セッション1,NA,,Tokyo.R
-34,2,gepuro,決定木,http://www.slideshare.net/gepuro/decision-tree-27139297,,Tokyo.R
-34,3,yokkuns,共分散構造分析,NA,,Tokyo.R
-34,4,fuji_fujimon,MCMCとかの理論的なところをRで例を見ながら的な,http://www.slideshare.net/fuji_fujimon/mcmc-26910131,,Tokyo.R
-34,5,sfchaos,アクションマイニングによる最適アクションの導出,http://www.slideshare.net/sfchaos/ss-27123062,,Tokyo.R
-34,6,yokkuns,ドリコムの分析環境とデータサイエンス活用事例,http://www.slideshare.net/yokkuns/20130906-25950627,,Tokyo.R
-34,7,中原誠,決定木を用いた、異性タイプの嗜好パターン分析,NA,,Tokyo.R
-33,1,aad34210,初心者セッション1,http://www.slideshare.net/aad34210/tokyo-r33-beginner,,Tokyo.R
-33,2,argyle320,因子分析,http://www.slideshare.net/mitsuoshimohata/ss-25635356,,Tokyo.R
-33,3,horihorio,ロジスティック回帰の考え方・使い方,http://www.slideshare.net/horihorio/tokyo-r33-logi,,Tokyo.R
-33,4,TJO_datasci,Rで計量時系列分析～駆け足でCRANパッケージ総ざらい～,http://www.slideshare.net/takashijozaki1/tokyo-r130831-tjo,,Tokyo.R
-33,5,nxafmoishq08jXG,Rで項目反応理論、テキストマイニング、研修やってますという三題噺,NA,,Tokyo.R
-33,6,motivic_,21世紀の手法対決,http://www.slideshare.net/motivic/tokyo-r-lt-25759212,,Tokyo.R
-33,7,doradora09,NA,http://www.slideshare.net/akiaki5516/doradora09-lt-tokyor33,,Tokyo.R
-33,8,後前川清,僕がRを使って篠崎愛似の彼女を見つけるまで,NA,,Tokyo.R
-33,9,teramonagi,とある金融屋の統計技師が時系列解析してみた,http://www.slideshare.net/teramonagi/ss-25774147,,Tokyo.R
-33,10,Dubian,RcppEigen and SVD,http://www.slideshare.net/xiangze/rcppeigen-and-svd,,Tokyo.R
-33,11,kos59125,ゴミ箱のポジショントーク,http://blog.recyclebin.jp/archives/4034,,Tokyo.R
-33,12,qz70224,ひとり分散処理をやってみた,http://d.hatena.ne.jp/Oyamada/20130901/1378011172,,Tokyo.R
-33,13,0kayu,R+python で KAGGLE2値予測に挑戦!,http://www.slideshare.net/yurieoka37/rpytho,,Tokyo.R
-33,14,tanimocchi,相関係数と決定係数,http://www.slideshare.net/mocchi_/corelation-determinationregression-coefficient,,Tokyo.R
-33,15,langstat,機動戦士ガンダムのその後,NA,,Tokyo.R
-33,16,所沢義男,『データサイエンティストになれなかった皆さんへ(仮)』,NA,,Tokyo.R
-33,17,DTakaguchi,位置情報アプリのチェックインデータを使った相関分析,NA,,Tokyo.R
-32,1,doradora09,初心者セッション1,NA,,Tokyo.R
-32,2,後前川清,テキスト,NA,,Tokyo.R
-32,3,sanoche16,平均から正規分布まで,http://www.slideshare.net/sanoche16/ss-24443862,,Tokyo.R
-32,4,sato_mitsunori,実践で学ぶネットワーク分析,http://www.slideshare.net/MitsunoriSato/tokyor32-network-analysis-24442516,,Tokyo.R
-32,5,argyle320,質的変数の相関と因子分析,http://www.slideshare.net/mitsuoshimohata/ss-24419059,,Tokyo.R
-32,6,tech_machii,S言語拡張のアイデアと淘汰,NA,,Tokyo.R
-32,7,tanimocchi,サンプリングと推定(仮),NA,,Tokyo.R
-32,8,manabian,NA,NA,,Tokyo.R
-32,9,ts_3156,偽相関と偏相関係数,http://www.slideshare.net/TerukiShinohara/ss-24471453,,Tokyo.R
-32,10,ts_3156,ニコニコ動画のタグネットワークを描画してみた,http://www.slideshare.net/TerukiShinohara/ss-24717316,,Tokyo.R
-32,11,s3works,Rとオープンデータ(仮),http://www.slideshare.net/s3works/rapi,,Tokyo.R
-31,1,所沢義男,初心者セッション1,http://www.slideshare.net/TokorosawaYoshio/tokyor31-22286130,,Tokyo.R
-31,2,aad34210,Rによるやさしい統計学 第7章 分散分析（後半の後半）,http://www.slideshare.net/aad34210/tokyo-r30-anovapart2,,Tokyo.R
-31,3,hiratake55,中の人が語る seekR.jp の裏技（仮）,http://www.slideshare.net/hiratake55/seekrjp-22281554,,Tokyo.R
-31,4,sanoche16,始めよう多変量解析～主成分分析編～,http://www.slideshare.net/sanoche16/tokyor31-22291701,,Tokyo.R
-31,5,yokkuns,R言語で学ぶマーケティング分析 – 競争ポジショニング戦略 –,http://www.slideshare.net/yokkuns/r-22276096,,Tokyo.R
-31,6,a_bicky,R による自然言語処理入門（仮）,http://www.slideshare.net/abicky/r-22325351,,Tokyo.R
-31,7,gepuro,RとPythonによるデータ解析入門,http://www.slideshare.net/gepuro/rpython,,Tokyo.R
-31,8,tetsuroito,RでARIMAの話,http://www.slideshare.net/tetsuroito/31tokyor-lt,,Tokyo.R
-31,9,chiral,rzmqで並列分散コンピューティング,NA,,Tokyo.R
-31,10,teramonagi,可視化周辺の進化がヤヴァイ～rChartsを中心として～,http://www.slideshare.net/teramonagi/tokyo-r31-20130601,,Tokyo.R
-31,11,ts_3156,ABテストと結果の検定,http://www.slideshare.net/TerukiShinohara/ab-22285418,,Tokyo.R
-31,12,kos59125,R で自然順ソートを実装してみた,NA,,Tokyo.R
-30,1,aad34210,初心者セッション1,http://www.slideshare.net/aad34210/tokyo-r30-beginner,,Tokyo.R
-30,2,aad34210,Rによるやさしい統計学 第7章 分散分析（後半）,http://www.slideshare.net/aad34210/tokyo-r30-anova,,Tokyo.R
-30,3,7CIT,初心者セッション2,NA,,Tokyo.R
-30,4,mikado_hito,協調フィルタリング入門,NA,,Tokyo.R
-30,5,tech_machii,歴史を学んでR言語の未来を考える,NA,,Tokyo.R
-30,6,bob3bob3,Rでコンジョイント分析,http://www.slideshare.net/bob3/r-19234607,,Tokyo.R
-30,7,teramonagi,plyrパッケージで君も前処理スタ☆,http://www.slideshare.net/teramonagi/tokyo-r30-20130420,,Tokyo.R
-30,8,yuukicammy,RとC++と画像処理 (PART3),NA,,Tokyo.R
-30,9,kos59125,.NET で書いて R で実行,NA,,Tokyo.R
-30,10,_TRIP_DANCER,fluentdとR でお手軽ログ解析,http://www.slideshare.net/michitakaiida/fluentdmongo-dbr,,Tokyo.R
-30,11,sfchaos,R 3.0.0 is released!,http://www.slideshare.net/sfchaos/r300-is-relased,,Tokyo.R
-30,12,nezuq,RでSPARQL,http://www.slideshare.net/nezuQ/rsparql,,Tokyo.R
-30,13,wdkz,R-3.0.0を使ってみてわかったn個のこと,http://www.slideshare.net/wdkz/tokyor30-wdkz,,Tokyo.R
-29,1,h_chujo,Rによるやさしい統計学 第7章 分散分析,NA,,Tokyo.R
-29,2,doradora09,初心者セッション1,NA,,Tokyo.R
-29,3,mikado_hito,Rで始めるかもしれない顧客ベース分析,NA,,Tokyo.R
-29,4,showyou,mboostパッケージについて,NA,,Tokyo.R
-29,5,Soultoru,RでAHP ,http://www.slideshare.net/soultoru/rahp,,Tokyo.R
-29,6,sfchaos,シリーズ前処理2013：外れ値（仮）,http://www.slideshare.net/sfchaos/ss-16709258,,Tokyo.R
-29,7,Kentaro Taguchi,ベイジアンネットワークによる推論モデルの構築,NA,,Tokyo.R
-29,8,knzwtkfm,R＠Qiita,NA,,Tokyo.R
-29,9,yuukicammy,RとC++と画像処理 (PART2),NA,,Tokyo.R
-29,10,sanoche16,信号検出理論とR,NA,,Tokyo.R
-29,11,teramonagi,Tokyo.R 白熱教室「これからのRcppの話をしよう」,http://www.slideshare.net/teramonagi/tokyor-rcpp-16709700,,Tokyo.R
-29,12,kussuu000,Rのコーディングを勉強してみた,NA,,Tokyo.R
-29,13,argyle320,セイバーメトリクス,http://www.slideshare.net/mitsuoshimohata/ss-24464593,,Tokyo.R
-28,1,horihorio,Rによるやさしい統計学 第6章 2つの平均値を比較する,http://www.slideshare.net/horihorio/tokyor28textsession6,,Tokyo.R
-28,2,aad34210,初心者セッション1,http://www.slideshare.net/aad34210/tokyo-r28-1-16186883,,Tokyo.R
-28,3,yokkuns,初心者セッション2 Rでピボットテーブル,http://www.slideshare.net/yokkuns/r-16187142,,Tokyo.R
-28,4,dichika,シリーズ前処理2013：欠測データの補完 ,http://www.slideshare.net/dichika/maeshori-missing,,Tokyo.R
-28,5,sanoche16,Rで行うブランド資産測定～自由記述文章分析編～,http://www.slideshare.net/sanoche16/28tokyor,,Tokyo.R
-28,6,wdkz,shinyはじめました ,http://www.slideshare.net/wdkz/shiny-16178934,,Tokyo.R
-28,7,yokkuns,Rで階層ベイズモデル,http://www.slideshare.net/yokkuns/r-16189019,,Tokyo.R
-28,8,atg,標準偏差と不偏標準偏差とを母集団の大きさと標本の大きさとを変えて比較してみた,NA,,Tokyo.R
-28,9,bob3bob3,顔,NA,,Tokyo.R
-28,10,mits321,アッシェンフェルターのワイン方程式,NA,,Tokyo.R
-28,11,yokkuns,Rでレポートメール,http://www.slideshare.net/yokkuns/r-16189058,,Tokyo.R
-28,12,Hiro_macchan,Pythonはじめました,http://www.slideshare.net/Hiro_macchan/tokyo-r28ltss,,Tokyo.R
-27,1,dichika,サンプリング方法とそれに基いた分析,NA,,Tokyo.R
-27,2,teramonagi,R de 学ぶ逆変換法,http://www.slideshare.net/teramonagi/r-14810107,,Tokyo.R
-27,3,holidayworking,ggplot2に入門してみた,http://www.slideshare.net/holidayworking/ggplot2-14866373,,Tokyo.R
-27,4,mikado_hito,僕の考える真の可愛い女性について(仮),NA,,Tokyo.R
-27,5,yokkuns,Rでカジュアルに異常検知 ChangeAnomalyDetectionパッケージ,NA,,Tokyo.R
-26,1,holidayworking,NA,NA,,Tokyo.R
-26,2,Dubian,NA,NA,,Tokyo.R
-26,3,chiral,NA,NA,,Tokyo.R
-26,4,yokkuns,NA,NA,,Tokyo.R
-26,5,manozo,Tokyo.Rの輪,http://www.slideshare.net/manozo/tokyor,,Tokyo.R
-25,1,doradora09,初心者セッション,NA,,Tokyo.R
-25,2,dichika,Rによるやさしい統計学第4章 母集団と標本,http://www.slideshare.net/dichika/ss-13868697,,Tokyo.R
-25,3,teramonagi,Rで学ぶ「倒産確率推定」,http://www.slideshare.net/teramonagi/r-de,,Tokyo.R
-25,4,Hiro_macchan,びっぐでぇた解析環境あ～る～主としてRevolution Rのご紹介～,http://www.slideshare.net/Hiro_macchan/tokyo-r25-hiromacchan,,Tokyo.R
-25,5,mrt_akm,ダイナミックOLS,NA,,Tokyo.R
-25,6,Dubian100,NA,NA,,Tokyo.R
-25,7,dichika,越えられない壁,http://www.slideshare.net/dichika/r25lt,,Tokyo.R
-25,8,Aki_Kasahara,Rの乱数でいろいろ乱数を作る,NA,,Tokyo.R
-25,9,wdkz,RStudioで始めるTシャツ祭り,http://rstudio-pubs-static.s3.amazonaws.com/1088_c801ae1b53a943bdbe6e8f324b4bd874.html,,Tokyo.R
-25,10,bob3bob3,告知,NA,,Tokyo.R
-24,1,doradora09,[入門セッション] Rによるやさしい統計学 第2-3章,http://www.slideshare.net/akiaki5516/tokyor24-doradora09-13568497,,Tokyo.R
-24,2,aad34210,NA,NA,,Tokyo.R
-24,3,sfchaos,RでReproducible Research,http://www.slideshare.net/sfchaos/rreproducible-research-13569000,,Tokyo.R
-24,4,kenchan0130_aki,Rでデータマイニング～サンプリングデータのケース～,http://www.slideshare.net/tadayukionishi/data-mining-with-r-bloom-algae,,Tokyo.R
-24,5,holidayworking,データベースのお話し,http://www.slideshare.net/holidayworking/ss-13583847,,Tokyo.R
-24,6,ta2c,パフォーマンス R vs C#,http://de.slideshare.net/ta2c/rvsc,,Tokyo.R
-24,7,yokkuns,マーケティングの統計分析-4.2プロモーション-,http://www.slideshare.net/yokkuns/tokyor24-yokkuns,,Tokyo.R
-23,1,Nikoriks,そういえば，Rとは何だったか思い出してみる,http://www.slideshare.net/Nikoriks/r-13089670,,Tokyo.R
-23,2,doradora09,Rによるやさしい統計学 2nd Time 第一章辺りでー！二章、三章は余力あれば,http://www.slideshare.net/akiaki5516/tokyor23-doradora09,,Tokyo.R
-23,3,dichika,最近、混合効果モデルに興味をもった私がとりいそぎやったこと,http://www.slideshare.net/dichika/tokyor23,,Tokyo.R
-23,4,yokkuns,傾向スコア解析とUplift Modelling,http://www.slideshare.net/yokkuns/uplift-modelling,,Tokyo.R
-23,5,kos59125,CRAN Task Views でパッケージ管理,http://www.slideshare.net/kos59125/cran-taks-views,,Tokyo.R
-23,6,holidayworking,フォントの話,http://www.slideshare.net/holidayworking/ss-13089477,,Tokyo.R
-23,7,xiangze750,Rで力学系,http://www.slideshare.net/xiangze/dynamic-system-inrxiangze,,Tokyo.R
-23,8,kuwaken0925,Rでクリギング,NA,,Tokyo.R
-23,9,teramonagi,あるおっさんが記録し続けたデータを使えば人生一発逆転か？,http://www.slideshare.net/teramonagi/tokyo-r23-20120526,,Tokyo.R
-23,10,wdkz,RでつくるWebアプリ～rApache編～,http://www.slideshare.net/wdkz/rwebrapache,,Tokyo.R
-23,11,bob3bob3,Rでネットワーク分析勉強会のご紹介,http://geocities.yahoo.co.jp/gl/snatool/view/20120521/1337582460,,Tokyo.R
-22,1,sleipnir002,Rで学ぶデータサイエンス5 ロジスティック回帰,http://www.slideshare.net/sleipnir002/05-12739580,,Tokyo.R
-22,2,bob3bob3,アソシエーション分析,http://www.slideshare.net/bob3/tokyo-r22,,Tokyo.R
-22,3,ito_yan,Rで実験計画法中編,NA,,Tokyo.R
-22,4,yokkuns,選択バイアス入門,http://www.slideshare.net/yokkuns/tokyor22-selection-bias,,Tokyo.R
-22,5,atg,どっち使う？分散の式,NA,,Tokyo.R
-22,6,fuji_fujimon,ガチャとマルコフ連鎖,http://www.slideshare.net/fuji_fujimon/ss-12269485,,Tokyo.R
-22,7,Prunus1350,RとProcessingの連携,http://www.slideshare.net/Prunus1350/rprocessing,,Tokyo.R
-22,8,chiral,MKLのshogun-toolboxをRで使う,http://www.slideshare.net/MasayukiIsobe/tokyor-22-lt,,Tokyo.R
-22,9,shuyo,Rで音声合成やってみた,http://d.hatena.ne.jp/n_shuyo/20120501/tokyor,,Tokyo.R
-22,10,gepuro,らくがき！,http://www.slideshare.net/gepuro/ss-12926109,,Tokyo.R
-21,1,aad34210,続はじめてのR,http://www.slideshare.net/aad34210/tokyo-r21-2,,Tokyo.R
-21,2,holidayworking,Rによるデータサイエンス第16章 集団学習,http://www.slideshare.net/holidayworking/ss-11948523,,Tokyo.R
-21,3,Hiro_macchan,Rで学ぶ観察データでの因果推定,http://www.slideshare.net/Hiro_macchan/tokyo-r21-open,,Tokyo.R
-21,4,horihorio,RでGARCHモデル,http://www.slideshare.net/horihorio/garch-by-r,,Tokyo.R
-21,5,langstat,テキストマイニングで見る「機動戦士ガンダム」,http://www.slideshare.net/langstat/tokyor21,,Tokyo.R
-21,6,yokkuns,uplift modeling,http://www.slideshare.net/yokkuns/uplift-modelling-1,,Tokyo.R
-21,7,bob3bob3,RでPSM分析,http://d.hatena.ne.jp/bob3/20120310,,Tokyo.R
-21,8,atg,オタク的な標準偏差,NA,,Tokyo.R
-21,9,teramonagi,菩薩でも分かる!Rで動かすExcelアドインの作り方,http://www.slideshare.net/teramonagi/rexcel,,Tokyo.R
-21,10,wdkz,Rが苦手な人に使って頂く,http://www.slideshare.net/wdkz/tokyor21-wdkzpublish,,Tokyo.R
-21,11,millionsmile,二部グラフを使ったソーシャルネットワーク,http://www.slideshare.net/hirokoonari/2-11947351,,Tokyo.R
-21,12,sleipnir002,TokyoBeerのご案内,NA,,Tokyo.R
-20,1,sleipnir002,実行して4秒で動画-animationパッケージで動画作成-,http://www.slideshare.net/sleipnir002/animation10,,Tokyo.R
-20,2,teramonagi,ポアソン分布と指数分布のいけない関係,http://www.slideshare.net/teramonagi/ss-11296227,,Tokyo.R
-20,3,sfchaos,不均衡データのクラス分類,http://www.slideshare.net/sfchaos/ss-11307051,,Tokyo.R
-20,4,yokkuns,Rによるデータサイエンス 第15章 カーネル法とサポートベクターマシン,NA,,Tokyo.R
-20,5,tyatsuta,R創設者Ross Ihakaからのメッセージをお読みください,http://www.slideshare.net/yatsuta/120128tokyor,,Tokyo.R
-20,6,dichika,お詫びとお知らせ,http://www.slideshare.net/dichika/tokyor20-11306807,,Tokyo.R
-20,7,酒井,SVMでひったくりを予測,NA,,Tokyo.R
-20,8,manozo,Rでマンデルブロ集合,http://www.slideshare.net/manozo/ss-11303560,,Tokyo.R
-19,1,doraodora09,Rによるデータサイエンス第14章「ニューラルネットワーク」,NA,,Tokyo.R
-19,2,fuji_fujimon,デリバティブについて,NA,,Tokyo.R
-19,3,chiral,Rで色々やってみました,http://www.slideshare.net/MasayukiIsobe/tokyor-19-r,,Tokyo.R
-19,4,yokkuns,複雑ネットワーク徹底入門,NA,,Tokyo.R
-19,5,kos59125,Rで解くFizzBuzz 問題,http://www.slideshare.net/kos59125/r-fizzbuzz,,Tokyo.R
-19,6,wdkz,RでGPU使ってみるわ～,http://www.slideshare.net/wdkz/rgpu-10228793,,Tokyo.R
-18,1,aad34210,はじめてのR ,http://www.slideshare.net/aad34210/tokyo-r18,,Tokyo.R
-18,2,dichika,XLConnectで快適なエクセルライフのご提案,http://www.slideshare.net/dichika/tokyor18,,Tokyo.R
-18,3,takemikami,Rによるデータサイエンス第13章「樹木モデル」,http://www.slideshare.net/takemikami/r13-9821987,,Tokyo.R
-18,4,horihorio,Rで学ぶ現代ポートフォリオ理論,http://www.slideshare.net/horihorio/portfolio-tokyo-r18,,Tokyo.R
-18,5,atgmacontnd,部分的最小二乗法,http://goo.gl/kmu44,,Tokyo.R
-18,6,kenchan0130_aki,最適化アレ コレ ソレ,http://www.slideshare.net/tadayukionishi/tokyo-r-1012,,Tokyo.R
-18,7,holidayworking,RHadoopの紹介,http://www.slideshare.net/holidayworking/rhadoop,,Tokyo.R
-18,8,Hiro_macchan,Rで計量経済（操作変数を使ったバイアス調整）,NA,,Tokyo.R
-17,1,teramonagi,Rによるデータサイエンス第12章「時系列」,http://www.slideshare.net/teramonagi/tokyo-r17-20110924ppt,,Tokyo.R
-17,2,holidayworking,Rで解く最適化問題 – 線型計画問題編 –,http://www.slideshare.net/holidayworking/r-9425215,,Tokyo.R
-17,3,kos59125,近似ベイズ計算でカジュアルなベイズ推定,http://www.slideshare.net/kos59125/ss-9290131,,Tokyo.R
-17,4,yokkuns,Rで学ぶ傾向スコア解析入門 ,http://www.slideshare.net/yokkuns/r-9387843,,Tokyo.R
-17,5,mangantempy,サーバ異常検知入門 ,http://www.slideshare.net/mangantempy/ss-9399901,,Tokyo.R
-17,6,yuuukiooi,Rによる計量経済学入門,http://www.slideshare.net/yuuukioii/rtokyor17-9471725,,Tokyo.R
-17,7,dichika,TokyoRの軌跡,http://www.slideshare.net/dichika/tokyor17-9449827,,Tokyo.R
-17,8,tsutatsuta,Rで富士山を描いてみた,http://www.slideshare.net/tsutatsuta/tokyor17,,Tokyo.R
-17,9,wakuteka,Tsukuba.Rの軌跡,http://www.slideshare.net/wakuteka/once-upon-a-time-in-tsukubar-9479988,,Tokyo.R
-17,10,gepuro,ログ解析,NA,,Tokyo.R
-16,1,sleipnir002,Rで学ぶデータサイエンス5パターン認識　8/9章 k-近傍法、学習ベクトル量子化,http://www.slideshare.net/sleipnir002/08-09-k-lvq,,Tokyo.R
-16,2,Hiro_macchan,Rを用いた地理的情報解析,http://www.slideshare.net/Hiro_macchan/tokyo-r-hiromatsu,,Tokyo.R
-16,3,a_bicky,Rデバッグあれこれ,http://www.slideshare.net/abicky/r-9034336,,Tokyo.R
-16,4,ito_yan,Rで実験計画法,http://www.slideshare.net/itoyan110/r-9139125,,Tokyo.R
-16,5,tyatsuta,DICEWARS by R,http://www.slideshare.net/yatsuta/tokyo-r16,,Tokyo.R
-16,6,wdkz,Rで大規模データ解析,http://www.slideshare.net/wdkz/tokyor16-wdkz,,Tokyo.R
-16,7,dichika,シリーズRで可視化#2 インフォグラフはじめました,http://www.slideshare.net/dichika/tokyor16,,Tokyo.R
-16,8,yokkuns,異常行動検出入門 – 行動データ時系列のデータマイニング,http://www.slideshare.net/yokkuns/ss-9031918,,Tokyo.R
-15,1,doradora09,テキスト第11章 生存分析,http://www.slideshare.net/akiaki5516/survival-analysis0702,,Tokyo.R
-15,2,sleipnir002,Rで学ぶデータサイエンス　第4章　混合正規分布モデル,http://www.slideshare.net/sleipnir002/04-8419654,,Tokyo.R
-15,3,teramonagi,xtsパッケージで時系列解析,http://www.slideshare.net/teramonagi/tokyo-r15-20110702,,Tokyo.R
-15,4,yokkuns,Rによる異常検知入門（仮）,http://www.slideshare.net/yokkuns/tokyo-r15,,Tokyo.R
-15,5,dichika,シリーズRで可視化#1 ggplot2とgoogleVisとhwriterでレポートを作る,http://www.slideshare.net/dichika/tokyor15mod,,Tokyo.R
-15,6,manozo,Rで自分で料理 ～tsクラスとか～,http://www.slideshare.net/manozo/ts-8518025,,Tokyo.R
-15,7,AntiBayes,あんちべのすべらない話 ～俺のツイートがこんなにウケないはずがない～,http://www.slideshare.net/AntiBayesian/ss-8487534,,Tokyo.R
-14,1,suima8,非線形判別の勉強をしてみました,NA,,Tokyo.R
-14,2,holidayworking,Rが黄色い象に出会った,http://www.slideshare.net/holidayworking/r-meets-hadoop,,Tokyo.R
-14,3,sleipnir002,Rで学ぶデータサイエンス5 パターン認識 2章 K-平均法,http://www.slideshare.net/sleipnir002/02-kver20,,Tokyo.R
-14,4,_kohta,Rでisomap,http://www.slideshare.net/kohta/risomap,,Tokyo.R
-14,5,mangantempy,Rのコードをキレイに見せたい,http://www.slideshare.net/mangantempy/r-8133033,,Tokyo.R
-14,6,gepuro,QC7つ道具,http://www.slideshare.net/gepuro/qc7tools,,Tokyo.R
-14,7,isseing333,大規模データマイニングでのモデル探索手法：K-sample plot,http://www.slideshare.net/isseing333/tokyo-r-14201105,,Tokyo.R
-14,8,yokkuns,R言語でユニットテスト,http://www.slideshare.net/yokkuns/tokyor14-r/,,Tokyo.R
-13,1,isseing333,線形判別分析,http://www.slideshare.net/isseing333/tokyo-r-201104,,Tokyo.R
-13,2,kos59125,R と .NET Framework,https://docs.google.com/a/recyclebin.jp/viewer?a=v&pid=explorer&srcid=0B3zrAV1SplSBOGRkYmRjYWQtYWUwNi00MWIwLTg2N2ItMGQ3OGFlM2UwYjU2&hl=en&chrome=true,,Tokyo.R
-13,3,sfchaos,Rで学ぶロバスト推定,http://www.slideshare.net/sfchaos/r-7773031,,Tokyo.R
-13,4,酒井,Rで地理空間分析,NA,,Tokyo.R
-13,5,yokkuns,YjdnJlpの紹介とか,http://www.slideshare.net/yokkuns/tokyor13-yjdnjlptokyor,,Tokyo.R
-13,6,mokjpn,Rパッケージガイドブックの紹介,NA,,Tokyo.R
-12,1,yokkuns,Rによる回帰分析入門,http://www.slideshare.net/yokkuns/tokyo-r12-r,,Tokyo.R
-12,2,sleipnir002,Rで学ぶデータサイエンス 5パターン認識 1章 判別能力の評価 2,http://www.slideshare.net/sleipnir002/01-7159349,,Tokyo.R
-12,3,teramonagi,Rで学ぶ回帰分析と単位根検定,http://www.slideshare.net/teramonagi/r-7066155,,Tokyo.R
-12,4,aad34210,RをSQLで操る,http://www.slideshare.net/aad34210/tokyo-r-sqldf,,Tokyo.R
-12,5,sfchaos,Rあんな時こんな時　～いつか役立つ(かもしれない)Tips～,http://www.slideshare.net/sfchaos/rtokyo-r12,,Tokyo.R
-12,6,dichika,世界のR(仮),http://www.slideshare.net/dichika/r-7159503,,Tokyo.R
-11,1,bob3bob3,Rによるデータサイエンス第Ⅱ部 第6章 自己組織化マップ,http://www.slideshare.net/bob3/tokyo-r-11selforganizingmap,,Tokyo.R
-11,2,aad34210,ggplot2：パッケージ製作者（Wickamさん）の話を聞いて,http://www.slideshare.net/aad34210/ggplot2-110129,,Tokyo.R
-11,3,dichika,caretパッケージの紹介,http://www.slideshare.net/dichika/tokyo-r11caret,,Tokyo.R
-11,4,sfchaos,RにおけるHPC 並列計算編,http://www.slideshare.net/sfchaos/rhpc1-tokyor11-6742988,,Tokyo.R
-11,5,AntiBayesian,Rで始めるテキストマイニング,http://www24.atpages.jp/antibayesian/up/src/up0001.pdf,,Tokyo.R
-11,6,hamadakoichi,R言語による Random Forest 徹底入門,http://www.slideshare.net/hamadakoichi/introduction-torandomforest-tokyor,,Tokyo.R
-10,1,hnz,Rによるデータサイエンス第Ⅱ部 第5章 クラスター分析,http://www.slideshare.net/hnisiji/tokyo-r10,,Tokyo.R
-10,2,manozo,スマートに時系列を捌く方法 2,NA,,Tokyo.R
-10,3,ito_yan,基本パッケージの描画機能について,http://www.slideshare.net/itoyan110/plot-5690921,,Tokyo.R
-10,4,yokkuns,Japan.Rについて,NA,,Tokyo.R
-10,5,teramonagi,マルコフ連鎖モンテカルロ法入門-1,http://www.slideshare.net/teramonagi/ss-5190440,,Tokyo.R
-9,1,tyatsuta,Rの失敗？環境と変数代入と遅延評価と～R Language Definition案内番外編～,http://www.slideshare.net/yatsuta/100919-tokyor,,Tokyo.R
-9,2,yokkuns,Rによるデータサイエンス第Ⅱ部 第4章 多次元尺度法,http://www.slideshare.net/yokkuns/tokyor09,,Tokyo.R
-9,3,nokuno,Rによる文書モデルの可視化　～トピックモデル、ディリクレ分布、LDA,http://www.slideshare.net/nokuno/r-r-5231885,,Tokyo.R
-9,4,aad34210,RExcelでの日本語利用,http://www.slideshare.net/aad34210/japan-r-101127,,Tokyo.R
-9,5,teramonagi,スマートに時系列を捌く方法,http://www.slideshare.net/teramonagi/r-1,,Tokyo.R
-8,1,yokkuns,Rによるデータサイエンス第Ⅱ部 第3章 対応分析,http://www.slideshare.net/yokkuns/tokyor08,,Tokyo.R
-8,2,bob3bob3,ブランド・ポジショニングの分析,http://www.slideshare.net/bob3/tokyor8-brand-positioning-20100828,,Tokyo.R
-8,3,holidayworking,RでMapReduce,http://www.slideshare.net/holidayworking/rmapreduce,,Tokyo.R
-8,4,Nikoriks,Rのハラワタをちょっと見てみる,http://www.slideshare.net/Nikoriks/r-5065138,,Tokyo.R
-8,5,aad34210,Rの海外サイトのご紹介（仮）,http://www.slideshare.net/aad34210/tokyo-r-no8,,Tokyo.R
-7,1,bob3bob3,Rによるやさしい統計学 第17章 : 共分散構造分析,http://www.slideshare.net/bob3/tokyor8-brand-positioning-20100828,,Tokyo.R
-7,2,yanashi,PythonとR,NA,,Tokyo.R
-7,3,tyatsuta,R Language Definition案内～Rでハマったときのために～,http://www.slideshare.net/yatsuta/090724-tokyor,,Tokyo.R
-7,4,mangantempy,Rで麻雀,http://www.slideshare.net/mangantempy/r-4826821,,Tokyo.R
-7,5,sfchaos,RとC、C++の連携,http://www.slideshare.net/sfchaos/tokyor7rcc,,Tokyo.R
-7,6,yokkuns,10分で分かるRパッケージの作り方,http://www.slideshare.net/yokkuns/10r,,Tokyo.R
-6,1,holidayworking,Rによるやさしい統計学 第16章 : 因子分析,http://www.slideshare.net/holidayworking/r-16,,Tokyo.R
-6,2,dichika,ggplot2できれいなグラフ,http://www.slideshare.net/dichika/ggplot2,,Tokyo.R
-6,3,teramonagi,Rで学ぶ金融工学入門　～現代ポートフォリオ理論編～,http://www.slideshare.net/teramonagi/tokyor06,,Tokyo.R
-6,4,halamy,金融工学入門 ～Rで確率微分方程式～,NA,,Tokyo.R
-6,5,masafumisano,Y！ファイナンス非公式ガイド（仮）,NA,,Tokyo.R
-6,6,yokkuns,10分で分かるRパッケージの作り方,http://www.slideshare.net/yokkuns/10r,,Tokyo.R
-5,1,doradora09,Rによるやさしい統計学 : 第15章 回帰分析,NA,,Tokyo.R
-5,2,oshiro40,人口統計データの分析手法,http://www.slideshare.net/oshiro40/r-4260048,,Tokyo.R
-5,3,hamadakoichi,R 言語による アソシエーション分析 － 組合せ・事象の規則を解明する －,http://www.slideshare.net/hamadakoichi/r-r-4219052,,Tokyo.R
-5,4,yokkuns,RとWeb API,http://www.slideshare.net/yokkuns/rweb-api,,Tokyo.R
-4,1,yokkuns,Rによるやさしい統計学10章～14章 ,http://www.slideshare.net/yokkuns/tokyor04,,Tokyo.R
-4,2,hotoku,Rでカルマンフィルタ,NA,,Tokyo.R
-4,3,yanashi,財布にやさしいRを使ったデータマイニング,http://www.slideshare.net/yanashi/r-3847999,,Tokyo.R
-4,4,takanobu_mizuta,Value at Risk の紹介,http://www.slideshare.net/mizutata/20100424-tokyo-r,,Tokyo.R
-4,5,hamadakoichi,R言語による時系列分析,http://www.slideshare.net/hamadakoichi/r-3836773,,Tokyo.R
-3,1,yokkuns,分散分析,http://bit.ly/eKx3RB,,Tokyo.R
-3,2,syou6162,Optimization in R,http://www.slideshare.net/syou6162/optimization-in-r,,Tokyo.R
-3,3,hamadakoichi,プロセス、リソース、グラフと統計解析,http://www.slideshare.net/hamadakoichi/r-3569085,,Tokyo.R
-3,4,doradora09,RFinanceYJを使ってみた,http://bit.ly/eabQki,,Tokyo.R
-3,5,wakuteka,RとDBMS,http://www.slideshare.net/wakuteka/rdbms-3569579,,Tokyo.R
-3,6,Nikoriks,25年前のS事情,http://www.slideshare.net/nokuno/tokyo-r-2-machine-learning,,Tokyo.R
-2,1,yokkuns,統計的仮説検定、2つの平均値の比較,http://www.slideshare.net/yokkuns/r-studytokyo02,,Tokyo.R
-2,2,nokuno,Rで機械学習パッケージを試す(仮),http://www.slideshare.net/nokuno/tokyo-r-2-machine-learning,,Tokyo.R
-2,3,mizutomo,半導体と統計と私(仮),http://www.slideshare.net/mizutomo/r-study-lt-02-3289573,,Tokyo.R
-1,1,yokkuns,Rの基礎(Rとは、データ構造、データの入出力、データの視覚化),NA,,Tokyo.R
-1,2,yokkuns,統計学の基礎(記述統計/推定/検定),http://www.slideshare.net/yokkuns/r-3008616,,Tokyo.R
-1,3,akiaki5516,NA,NA,,Tokyo.R
-4,1,天野修一,入門者講習,NA,,Nagoya.R
-4,2,kos59125,標本調査におけるばらつきの評価―ブートストラップ法入門―,NA,,Nagoya.R
-4,3,syoh11,中心極限定理,NA,,Nagoya.R
-4,4,zgmf-x20a,いまごろになって userR!2008 の参加報告,NA,,Nagoya.R
-4,5,sakaue,Japan.R 開催のお知らせとお願い,NA,,Nagoya.R
-3,1,天野修一,入門者講習,NA,,Nagoya.R
-3,2,sakaue,#1 & #2 の続き：行列の操作（データの読み込み・修正など）,NA,,Nagoya.R
-3,3,langstat,プロットや判別分析関連のお話,NA,,Nagoya.R
-3,4,kos59125,R on ideone.com,NA,,Nagoya.R
-3,5,syoh11,正規表現（超速習）,NA,,Nagoya.R
-3,6,yoh2,プロテオーム解析にRをつかいたい(希望),NA,,Nagoya.R
-2,1,sakaue,入門者講習,NA,,Nagoya.R
-2,2,watayan,こまけぇこたぁいいんだよ！,NA,,Nagoya.R
-2,3,kos59125,R で２ちゃんねるを読んでみた,NA,,Nagoya.R
-2,4,小島ますみ,コーパス研究における χ 二乗検定再入門,NA,,Nagoya.R
-1,1,sakaue,Nagoya.R の趣旨説明,NA,,Nagoya.R
-1,2,sakaue,第１部：R 概論・R の基本操作,NA,,Nagoya.R
-1,3,sakaue,第２部：大量のデータを扱う、作図して保存する,NA,,Nagoya.R
-1,4,sakaue,言語（習得）研究と R,NA,,Nagoya.R
-1,5,sakaue,Mac いいよ Mac,NA,,Nagoya.R
-2,4,phosphor_m,GUI on R―RExcelとDeducer―,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM1YzJhZGVkZDU5M2YxYTA,,Osaka.R
-2,5,langstat,R言語による検定入門,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM5M2M3MmRhMGVjMzYyN2Y,,Osaka.R
-2,2,phosphor_m,データハンドリング中級編,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjUxNzBiMTExNGI1YTE3MTA,,Osaka.R
-2,3,phosphor_m,プロット入門,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjRiMWM2YTRhMmFkMDIyMDM,,Osaka.R
-2,1,phosphor_m,初心者講習会資料,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjQ4NDc5OTA0N2I2MWI4OWQ,,Osaka.R
-3,4,phosphor_m,RでSEM入門―SEMは（そんなに）怖くない,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjFlNDVmMDM2Y2ZiNTE0ZDY,,Osaka.R
-3,3,langstat,R言語によるテキストマイニング入門,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjVhN2QzODU3Yzg3YjEyOWI,,Osaka.R
-3,2,phosphor_m,memiscパッケージで脱spss!,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM3OTJjNmU5OTQ3NTkzODY,,Osaka.R
-3,1,phosphor_m,初心者講習会資料（Osaka.R3）,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjM0MDdmNWJkMjY3N2E3OTU,,Osaka.R
-4,1,phosphor_m,はじめてでもわかるデータ入出力,http://slidesha.re/e6Dk1E,,Osaka.R
-4,2,a_bicky,TwitterのデータをRであれこれ,http://www.slideshare.net/abicky/twitterr,,Osaka.R
-4,3,langstat,R言語によるコーパス分析入門,http://d.hatena.ne.jp/a_bicky/20101205/1291511878,,Osaka.R
-4,4,kozo2,reshapeを用いたdata aggregation,http://slidesha.re/gNUHnX,,Osaka.R
-4,5,zgmfx20a,EBImageの紹介,http://slidesha.re/eHuO9i,,Osaka.R
-5,1,phosphor_m,初心者講習会,http://www.slideshare.net/m884/osakar5-7702482,,Osaka.R
-5,2,phosphor_m,Rzパッケージ―SPSSのようなデータ管理インターフェイス,http://www.slideshare.net/m884/rzspss,,Osaka.R
-5,3,langstat,R言語による決定木入門,http://www.slideshare.net/langstat/osakar5,,Osaka.R
-5,4,zgmfx20a,Random Forests 不徹底入門,http://www.slideshare.net/zgmfx20a/random-forests,,Osaka.R
-5,5,sakaue,Rを用いた視線計測データの可視化方法の検討,http://www.slideshare.net/sakaue/osakar-5-presentation,,Osaka.R
-5,6,lctabata,Rでとる文体指紋：英国Victoria朝の作家Charles DickensとWilkie Collins ,http://www.lang.osaka-u.ac.jp/~tabata/OsakaR_20110423_Dickens_v_Collins,,Osaka.R
-6,1,phosphor_m,初心者講習会,http://www.slideshare.net/m884/osakar6-8485597,,Osaka.R
-6,2,DIG11,Rを使用したGISの表現基本編,http://www.slideshare.net/langstat/osakar6,,Osaka.R
-6,3,bonohu, Rによる大規模ゲノムデータ解析の企て,http://www.slideshare.net/sakaue/osakar-6-lt,,Osaka.R
-6,4,zgmfx20a,Random Forests判別学習結果のもうひとつの可視化手法Partition Maps,http://www.slideshare.net/m884/osakar6-8485597,,Osaka.R
-6,5,langstat,R言語によるナイーブベイズ入門,http://www.slideshare.net/langstat/osakar6,,Osaka.R
-6,6,sakaue,箱ひげ図を復習する（＋One more thing）,http://www.slideshare.net/sakaue/osakar-6-lt,,Osaka.R
-7,1,nanaya_sac,第一回ゆるふわーる(Osaka.R女子部),http://www.slideshare.net/SachikoHirata/ss-11644270,,Osaka.R
-7,2,phosphor_m,入門者講習,http://www.slideshare.net/m884/osakar7-11521456,,Osaka.R
-7,3,sakaue,主催のススメ: Nagoya.Rの発足から引退まで,NA,,Osaka.R
-7,4,sakaue,フォントのオハナシ,http://www.slideshare.net/sakaue/osakar-7-lt-11531320,,Osaka.R
-7,5,phosphor_m,Rzパッケージの紹介,http://www.slideshare.net/m884/rz-11521427,,Osaka.R
-7,6,langstat,Rでテキストマイニングをする前に,http://www.slideshare.net/langstat/osakar7,,Osaka.R
-7,7,seisumi,Google AnalyticsとRを使ったアクセスログの主成分分析,NA,,Osaka.R
-7,8,aonoa732384,Rで方言のネットワーク分析,http://www.slideshare.net/AyakaOnohara/r-11532674,,Osaka.R
-1,1,u_ribo,Yokohama.R開催の趣旨説明,http://yokohamar.github.io/Welcome-to-Yokohama.R/,,Yokohama.R
-1,2,u_ribo,Rいろはにほへと: インストールから簡単な処理まで,http://yokohamar.github.io/introduction-to-r/index.html,,Yokohama.R
-1,3,u_ribo,Rいろはにほへと: RStudioを使った実践,http://yokohamar.github.io/introduction-to-r/index2.html,,Yokohama.R
-1,1,tsutatsuta,Kashiwa.R開催の趣旨,http://www.slideshare.net/tsutatsuta/kashiwar1,,Kashiwa.R
-1,2,wakuteka,NA,NA,,Kashiwa.R
-1,3,antiplastics,Rの高速化,NA,,Kashiwa.R
-1,4,tamura,Rを研究でどう使うか: 迷信の伝播と人類学から,http://www.slideshare.net/tmr_kohei/kashiwa-r/,,Kashiwa.R
-1,5,maro,画像解析とパターン認識における R の利用,http://www.slideshare.net/nmaro/r-10148614,,Kashiwa.R
-1,6,yuifu,NA,NA,,Kashiwa.R
-1,7,gentlementatu,独自の図を作成するための第一歩,NA,,Kashiwa.R
-2,1,gentlementatu,統計解析ソフトRのちょっと変わった使い方　テキストファイル出力編,NA,,Kashiwa.R
-2,2,wakuteka,忙しい人のための『Rグラフィックス』まとめ,NA,,Kashiwa.R
-2,3,yuifu,距離まとめ,http://www.slideshare.net/yuifu/ss-11776646,,Kashiwa.R
-2,4,maro,RandomForest 等について,http://www.slideshare.net/nmaro/kashiwar2-randomforest,,Kashiwa.R
-3,1,tsutatsuta,アンケートの解析,http://www.slideshare.net/tsutatsuta/120518kashiwar/,,Kashiwa.R
-3,2,yuifu,FDRの使い方,http://www.slideshare.net/yuifu/fdr-kashiwar-3,,Kashiwa.R
-3,3,antiplastics,フェチデータ解析,NA,,Kashiwa.R
-3,4,nukkie66,lme4でGLMM,NA,,Kashiwa.R
-3,5,tmr_kohei,オタクショップ数の地域差は30代男性未婚率を説明するか？,http://www.slideshare.net/tmr_kohei/kashiwar-3,,Kashiwa.R
-3,6,fukunagaTsu,RでAUC解析,NA,,Kashiwa.R
-3,7,gggtta,Rで親孝行!?,NA,,Kashiwa.R
-3,8,Mozk_,環境とメタプログラミング,NA,,Kashiwa.R
-4,1,yuifu,Bio! Bio! Bio!,http://www.slideshare.net/yuifu/r-14522419,,Kashiwa.R
-4,2,antiplastics,RとSQLiteで気軽にデータベース作成,NA,,Kashiwa.R
-4,3,tsutatsuta,Rで密度推定,http://d.hatena.ne.jp/tsutatsutatsuta/20120928/1348801089,,Kashiwa.R
-4,4,fukunagatsu,Rとビールとオムツの関係,NA,,Kashiwa.R
-4,5,gentlementatu,がちで生存時間解析する,NA,,Kashiwa.R
-4,6,gggtta,中身を理解する意義,NA,,Kashiwa.R
-4,7,nukkie66,とりあえずPCAで何かに使えそうな図を作る,NA,,Kashiwa.R
-5,1,yuifu,初めてのＲ　Rを始める前に知っておきたい10のこと,http://www.slideshare.net/yuifu/121130-kashiwar-5-r10-15437737,,Kashiwa.R
-5,2,fukunagaTsu,初めてのＲ　作図編,NA,,Kashiwa.R
-5,3,cali,yurufuwa.R,NA,,Kashiwa.R
-5,4,Mozk_,RExcel,http://www.slideshare.net/ShoichiroOishi/kashiwar-5-rexcel,,Kashiwa.R
-5,5,tsutatsuta,Rでクリスマスっぽいものをつくる,NA,,Kashiwa.R
-5,6,gentlementatu,今度こそ生存時間解析,NA,,Kashiwa.R
-5,7,wakuteka,統計超人あ～る アンドロイドだけどRさえあれば関係ないよねっ,NA,,Kashiwa.R
-5,8,Med_KU,変態にRを与えた結果がこれだよ,NA,,Kashiwa.R
-6,1,tsutatsuta,クラスとオブジェクトの話をしよう,NA,,Kashiwa.R
-6,2,antiplastics,オミックス解析におけるベイズ統計の役割,NA,,Kashiwa.R
-6,3,yuifu,Shiny Serverを用いたオープンサイエンスの可能性,NA,,Kashiwa.R
-6,4,fukunagaTsu,見よ、かの青空に,NA,,Kashiwa.R
-6,5,Med_KU,ラブライブが好きすぎて彼女たちを解析してみた,NA,,Kashiwa.R
-7,1,tsutatsuta,Kashiwa.Rについて,NA,,Kashiwa.R
-7,2,wakuteka,Rの基本,NA,,Kashiwa.R
-7,3,fukunagaTsu,Rでプロット,NA,,Kashiwa.R
-7,4,gggtta,Rでデータ取得自動化,NA,,Kashiwa.R
-7,5,Med_KU,比較・検定・多重検定補正,NA,,Kashiwa.R
-7,6,antiplastics,DNAマイクロアレイの解析と多重検定補正 ntiplastics,NA,,Kashiwa.R
-7,7,yuifu,"RでできるRNA-seq, ChIP-seq解析 ",NA,,Kashiwa.R
-7,8,antiplastics,遺伝子のアノテーション付加,NA,,Kashiwa.R
-8,1,tsutatsuta,はじめに,NA,,Kashiwa.R
-8,2,fukunagaTsu,福永のRをはじめからていねいに,NA,,Kashiwa.R
-8,3,gggtta,Rで育むデータを描く力,,,Kashiwa.R
-8,4,wakuteka,Rが最強の統計学習環境である,NA,,Kashiwa.R
-8,5,antiplastics,Rでシステムバイオロジー,http://www.slideshare.net/antiplastics/r-22169106,,Kashiwa.R
-8,6,tsutatsuta,Rと同位体分析,http://www.slideshare.net/tsutatsuta/kashiwar8,,Kashiwa.R
-8,7,yuifu,Rで塩基配列解析,NA,,Kashiwa.R
-8,8,nukkie66,Rで薬剤標的プロファイリング,NA,,Kashiwa.R
-8,9,Med_KU,とにかくplotしてみた結果,NA,,Kashiwa.R
-9,1,tsutatsuta,Bagplot: 二変数の箱ひげ図,http://www.slideshare.net/tsutatsuta/kashiwar9,,Kashiwa.R
-9,2,yuifu,ゲノム解析でRを使う,http://www.slideshare.net/yuifu/kashiwar9-r,,Kashiwa.R
-9,3,antiplastics,metaSeq: RNA-seqデータにおけるメタアナリシス解析パッケージ,NA,,Kashiwa.R
-9,4,fukunagaTsu,全てをRでやらないと言う事,NA,,Kashiwa.R
-9,5,Med_KU,Rでフローサイトメトリー,http://www.slideshare.net/Med_KU/20131011kashiwar9,,Kashiwa.R
-9,6,YAMADA Akitaka,Rとコーパスを用いた言語表現の観察,NA,,Kashiwa.R
-10,1,tsutatsuta,convex hullと確率楕円,NA,,Kashiwa.R
-10,2,antiplastics,R以外の研究ツール,NA,,Kashiwa.R
-10,3,wakuteka,markdownで解析のメモをとることについて,NA,,Kashiwa.R
-10,4,yuifu,巨大な表を高速に扱う data.table について,http://www.slideshare.net/yuifu/datatable-36578672,,Kashiwa.R
-10,5,calicoli,Rで音声解析,NA,,Kashiwa.R
-10,6,teuder,Rcppのすゝめ: C++を知らないあなたにおくる簡単ハイパフォーマンス・プログラミング,http://www.slideshare.net/masakitsuda940/rcpp-36654397,,Kashiwa.R
-10,7,mona,Rで統計のキホン,NA,,Kashiwa.R
-10,8,KeiHKojo,画像処理をRでやってみた,NA,,Kashiwa.R
-1,1,sakaue,入門者講習,http://www.slideshare.net/sakaue/hiroshimar-1-12,,Hiroshima.R
-1,2,sakaue,R を言語・言語教育研究でどう活用できるか,http://www.slideshare.net/sakaue/hiroshimar-1-13-lt,,Hiroshima.R
-1,3,kosugitti,心理学のためのpsychパッケージ,http://www.slideshare.net/KojiKosugi/psych-8342608,,Hiroshima.R
-1,4,t2gtnd,空間データのための回帰分析,http://www.slideshare.net/springking/ss-8342938,,Hiroshima.R
-2,1,sakaue,入門者講習,http://www.slideshare.net/sakaue/hiroshimar-2,,Hiroshima.R
-2,2,sakaue,Rでグラフ再入門,http://www.slideshare.net/sakaue/hiroshimar-2-lt-by-sakaue,,Hiroshima.R
-2,3,t2gtnd,グラフで学ぶ主効果・交互作用,http://ppl.ug/ZBLpEuxurgk/,,Hiroshima.R
-2,4,T_Yamane,RStudio事始め,http://www.slideshare.net/TakashiYamane1/rstudio,,Hiroshima.R
-2,5,mihiog,Rを用いた地震データの可視化,http://www.slideshare.net/sakaue/hi-roshimar,,Hiroshima.R
-3,1,sakaue,入門者講習,http://www.slideshare.net/sakaue/hiroshimar3intror,,Hiroshima.R
-3,2,sakaue,RMeCab を使ったテキストマイニングの基礎の基礎,http://www.slideshare.net/sakaue/hiroshimar3rmecab,,Hiroshima.R
-3,3,Kimihira0120,今までのあらすじとこれからの予定,NA,,Hiroshima.R
-3,4,kazutan,RStudioでプレゼンスライドを作ってみる,http://rpubs.com/kazutan/hiroshimar3,,Hiroshima.R
-3,5,t2gtnd,Rで地図データを扱う,http://www.slideshare.net/springking/rmap,,Hiroshima.R
-3,6,simizu706,Rで潜在ランク分析,http://www.slideshare.net/simizu706/latent-rank-44708240,,Hiroshima.R
-1,1,kosugitti,Rの準備と基本操作,https://t.co/udXaXDmUK6,,HijiyamaR
-1,2,kazutan,データ処理とグラフ作成,https://rpubs.com/kazutan/hijiyamar1,,HijiyamaR
-1,3,t_macya,データ入力が終わってから分析する前にすること,http://t.co/mLo6268HTv,,HijiyamaR
-1,4,t_yamane,anovakunとanovatan,http://t.co/7XZhYZotdl,,HijiyamaR
-1,5,simizu706,Rで因子分析〜某統計ソフトでできないあれこれ〜,http://t.co/8SSItWbLUJ,,
-1,6,hirakawamakoto,Rで重回帰分析の交互作用効果を検討してみよう,http://t.co/0FT7Xqc4TH,,
-1,7,Kosugitti,続・心理学のためのpsychパッケージ,https://t.co/BcrHCfBexp,,
-1,1,sakaue,R ことはじめ,NA,,SappoRo.R
-1,2,sakaue,『Rで学ぶデータサイエンス』シリーズ のスクリプトを片っ端から実行してみました,NA,,SappoRo.R
-1,3,seisumi,Rを使った次元数の縮約化,NA,,SappoRo.R
-1,4,sakaue,R で言語研究をはじめよう,NA,,SappoRo.R
-1,5,KuboBook,R で統計モデルと作図,NA,,SappoRo.R
-1,6,nakayoshix,仕事で使うR,NA,,SappoRo.R
-1,7,havanaclub_,R@プログラミング環境マニヤ視点から,NA,,SappoRo.R
-1,8,daihiko,SASだと簡単なのにRでやると面倒だと思ってしまうところ,NA,,SappoRo.R
-1,9,高見敏子,クラスター分析のWard法で指定すべき距離,NA,,SappoRo.R
-2,1,kosugitti,始めよう、R,http://www.slideshare.net/KojiKosugi/sapporor-2ws,,SappoRo.R
-2,2,daihiko,群ごとの処理とAnova君の解説,NA,,SappoRo.R
-2,3,MizumotoAtsushi,R を使ったコンピュータ適応型テスト構築の試み,NA,,SappoRo.R
-2,4,yearman,やはり俺のR使用法はまちがっている。,NA,,SappoRo.R
-2,5,watttcho,R Markdown を使うと図と分析をセットで管理できてラク,NA,,SappoRo.R
-2,6,casualconc,MacR の紹介,NA,,SappoRo.R
-3,1,daihiko,R入門,http://www.slideshare.net/dnakanisi/sapporor-3-2014-r,,SappoRo.R
-3,2,kazutan,結果レポートはもうRStudioで作ってしまおう,http://blog.kz-md.net/?p=970,,SappoRo.R
-3,3,simizu706,glmer2stanパッケージを使った，MCMC推定によるマルチレベルモデル,http://www.slideshare.net/simizu706/mcmc-35634309,,SappoRo.R
-3,4,MizumotoAtsushi,Shinyを使った統計解析Webアプリケーションの作成,http://www.slideshare.net/AtsushiMizumoto/sapporor3,,SappoRo.R
-3,5,simizu706,Excelのフリーソフトでも統計解析　HADの紹介,http://www.slideshare.net/simizu706/excel-37442423,,SappoRo.R
+45,11,所沢義男,男の価値は作ったパッケージで決まる,http://www.slideshare.net/TokorosawaYoshio/r45lt,NA,Tokyo.R
+45,12,wonder_zone,分析で好みの娘をぶっこぬく,http://www.slideshare.net/k_mori/tokyor-45,NA,Tokyo.R
+45,13,hiratake55,R for Cloud Computing,http://www.slideshare.net/hiratake55/r-for-cloud-computing-43609330,NA,Tokyo.R
+45,14,doradora09,KHCoderご紹介,http://www.slideshare.net/akiaki5516/15-0117-khcoder-43609276,NA,Tokyo.R
+46,1,akiaki5516,10分で分かるr言語入門,http://www.slideshare.net/akiaki5516/10rver2-upload,tutorial,Tokyo.R
+46,2,所沢義男,Rはオワコン,NA,tutorial,Tokyo.R
+46,3,housecat442,重回帰分析で頑張りたい,http://www.slideshare.net/shotayasui/ss-44961623,statistics,Tokyo.R
+46,4,berobero11,順序データでもベイズモデリング,http://www.slideshare.net/berobero11/20150221-44954159,modeling,Tokyo.R
+46,5,Hiro_macchan,Logistic regression and Causal Effect Estimation,http://rpubs.com/Hiro_macchan/60861,statistics,Tokyo.R
+46,6,yutannihilation,htmlwidgetsでJavascriptの可視化をRに,https://rpubs.com/yutannihilation/how-to-use-htmlwidgets,htmlwidgets,Tokyo.R
+46,7,sato_mitsunori,cyREST入門～RとCytoscapeのAPI連携～,http://www.slideshare.net/MitsunoriSato/tokyor46-trycy-rest,visualize,Tokyo.R
+46,8,__nakamichi__,R6パッケージの紹介：機能と実装,http://www.slideshare.net/__nakamichi__/r6-upload,system,Tokyo.R
+46,9,teramonagi,ULT x 3,http://www.slideshare.net/teramonagi/ultra-lightning-talk-3,NA,Tokyo.R
+46,10,tetsuroito,俺とRとディリクレ分布,http://www.slideshare.net/tetsuroito/20150221-tokyo-r-lt-r,NA,Tokyo.R
+46,11,kikurage1001,Cox比例ハザードモデルとその周辺,http://www.slideshare.net/kikurage1001/cox-44956683,NA,Tokyo.R
+46,12,gepuro,最強のハードディスクはどれだ？,http://www.slideshare.net/gepuro/ss-44957184,NA,Tokyo.R
+46,13,u_ribo,Japan.R補完計画,http://www.slideshare.net/uribo/japanrtokyor46lt,NA,Tokyo.R
+46,14,kos59125,Rにもしかして機能を追加した話,https://onedrive.live.com/view.aspx?resid=FD448A567D4BC37E!6194&ithint=file%2cpptx&app=PowerPoint&authkey=!AGLo3M_EBiXmInQ,NA,Tokyo.R
+1,1,syou6162,Tsukuba.Rの概要,http://d.hatena.ne.jp/syou6162/20080624/1214212893,NA,Tsukuba.R
+1,2,syou6162,Rの基本データ構造、よく使う関数紹介 ,http://d.hatena.ne.jp/syou6162/20080725/1216968631,NA,Tsukuba.R
+1,3,syou6162,Rでのぐぐりかた,http://d.hatena.ne.jp/syou6162/20080725/1217018655,NA,Tsukuba.R
+1,4,Misho,"A history of the ""R"" ",NA,NA,Tsukuba.R
+1,5,wakuteka,Happy gRaphics!,NA,NA,Tsukuba.R
+1,6,syou6162,Rを使った統計勉強法【中心極限定理編】,http://d.hatena.ne.jp/syou6162/20080725/1216958812,NA,Tsukuba.R
+1,7,t_yamazaki021,Rを使ったBAモデルのシミュレーション)(仮) ,NA,NA,Tsukuba.R
+1,8,hogelog,はじめてのR ―恋するRはせつなくてLispを想うとついlambdaしちゃうの― ,NA,NA,Tsukuba.R
+1,9,syou6162,apply familyの紹介,http://d.hatena.ne.jp/syou6162/20080725/1216958961,NA,Tsukuba.R
+2,1,syou6162,アクセスログ解析をやってみよう,http://d.hatena.ne.jp/syou6162/20080914/1221307840,NA,Tsukuba.R
+2,2,syou6162,もうちょっと高度なグラフィックス特集,http://d.hatena.ne.jp/syou6162/20080914/1221307975,NA,Tsukuba.R
+2,3,y_benjo,やるおで学ぶSVM with R,http://www.slideshare.net/guest8ee130/svmr-with-yaruo-presentation,NA,Tsukuba.R
+2,4,twittoru,プログラミングを9ミリも知らない俺がRでProject Eulerに挑戦してみた,http://www.slideshare.net/tor_ozaki/challenge-the-project-euler-with-r-presentation/,NA,Tsukuba.R
+2,5,wakuteka,VSS(Vim Speaks Statistics),http://www.slideshare.net/wakuteka/tsukuba-r2-presentation,NA,Tsukuba.R
+3,1,wakuteka,Rによるバイオインフォマティクスデータ解析,NA,NA,Tsukuba.R
+3,2,syou6162,Rで学ぶシミュレーション入門 ,NA,NA,Tsukuba.R
+3,3,zgmf-x20a,useR!2008報告 ,NA,NA,Tsukuba.R
+3,4,sayamatcher,Rを使って論文の図を書いた実例の紹介,NA,NA,Tsukuba.R
+3,5,twittoru,それRじゃなくてもできるよ~多言語と組合せて最高にキモいコードを書こう!~,NA,NA,Tsukuba.R
+4,1,wakuteka,Rで学ぶ遺伝子多型解析,NA,NA,Tsukuba.R
+4,2,hiratake55,Rで項目応答理論 ,NA,NA,Tsukuba.R
+4,3,syou6162,Rを高速化するための10の方法(仮),http://d.hatena.ne.jp/syou6162/20090301/1235890688,NA,Tsukuba.R
+4,4,y_benjo,RでTwitterのクラスタをあぶりだしてみた,http://www.slideshare.net/guest91c5ac/twitters-social-network-analysis,NA,Tsukuba.R
+4,5,bonohu,テキストマイニングとDNA配列解析,NA,NA,Tsukuba.R
+4,6,flashingwind,乱数と行列計算の言語としてRを使う(PageRank、NNなど) ,NA,NA,Tsukuba.R
+4,7,gfx,CRANの歩き方,NA,NA,Tsukuba.R
+4,8,riywo,Perlもいいんじゃない？,http://www.slideshare.net/riywo/tsukubar4,NA,Tsukuba.R
+4,9,mickey24,Rで学ぶBrainf*ck,NA,NA,Tsukuba.R
+5,1,yag_ays,3分で出来るRの回帰分析+α,NA,NA,Tsukuba.R
+5,2,y_benjo,とあるサイトの禁書目録 Rでアクセスログを触るというアレについて,http://www.slideshare.net/ybenjo/a-certain-websites-index,NA,Tsukuba.R
+5,3,bonohu,DBCLSと統合データベースプロジェクト,NA,NA,Tsukuba.R
+5,4,mickey24,Animation with R ,http://www.slideshare.net/mickey24/r-de-animation,NA,Tsukuba.R
+5,5,hiratake55 ,Windowsユーザも賢くRを使おう,NA,NA,Tsukuba.R
+6,1,syou6162,一粒で3回おいしいggplot2,http://www.slideshare.net/syou6162/tsukuba,NA,Tsukuba.R
+6,2,wakuteka,「大規模データ処理に便利そうなコマンドを覚えよう！ - わたしといるかとうみすずめ」 ,NA,NA,Tsukuba.R
+6,3,twittoru,R<del>uby</del>で学ぶ 奇妙な 関数型 プログラミング言語,http://www.slideshare.net/tor_ozaki/rltdelubyltdel,NA,Tsukuba.R
+6,4,y_benjo,とある言語の対疎行列,http://www.slideshare.net/ybenjo/rs-anti-sparseness-2558377,NA,Tsukuba.R
+6,5,mickey24,Extend R with C!!!,NA,NA,Tsukuba.R
+6,6,yag_ays,Diagramパッケージを使ってみる,http://www.slideshare.net/yag_ays/diagram-2557036,NA,Tsukuba.R
+6,7,ikakura7188,Rをはじめたばかりの僕が牛さんのデータを解析するのにRを使ってるよ!!かわいいうしさんの写真もあるよ!,NA,NA,Tsukuba.R
+7,1,wakuteka,Beautiful woRld,http://www.slideshare.net/wakuteka/tsukubar7,NA,Tsukuba.R
+7,2,yag_ays,Rを用いた解析の実例 - Project *ぶろったん,http://www.slideshare.net/yag_ays/r-project,NA,Tsukuba.R
+7,3,Mozk_,environmentとマクロもどき,NA,NA,Tsukuba.R
+7,4,ikakura7188,ggplot2の外見をExcelのグラフ機能を使ってぱくってみた,http://www.slideshare.net/ikakura7188/tukuba-r7,NA,Tsukuba.R
+7,5,niam,en.newikipedia.org,NA,NA,Tsukuba.R
+7,6,yokkuns,R勉強会東京 - Tokyo.Rの紹介,NA,NA,Tsukuba.R
+7,7,jj0c_0jjj,Rによるマイクロアレイデータの解析 (RubyでRを使ってみた),NA,NA,Tsukuba.R
+7,8,hiratake55,『R-webUI の紹介』WebブラウザやモバイルガジェットからRを使う方法について,NA,NA,Tsukuba.R
+7,9,hamadakoichi,Tokyo.Webminingの紹介,NA,NA,Tsukuba.R
+7,10,n_shuyo,普通のプログラミング言語R(仮),NA,NA,Tsukuba.R
+7,11,y_benjo,きかいがくしゅう！,NA,NA,Tsukuba.R
+7,12,mickey24,Parallel Computing in R,NA,NA,Tsukuba.R
+8,1,yag_ays,For the Interactive design in R,http://www.slideshare.net/yag_ays/tsukubar8,NA,Tsukuba.R
+8,2,toddler2009,Rで情報幾何 ,NA,NA,Tsukuba.R
+8,3,y_benjo,俺のuseR!解説が45分でわかるわけがない ,http://www.slideshare.net/ybenjo/user2010-matome,NA,Tsukuba.R
+8,4,twittoru,R OAuth for twitteR,NA,NA,Tsukuba.R
+8,5,yag_ays,R+ESS,http://www.slideshare.net/yag_ays/ess-2558366,NA,Tsukuba.R
+8,6,mickey24,Extend R with Rcpp!!!,http://www.slideshare.net/mickey24/extend-r-with-rcpp,NA,Tsukuba.R
+1,1,u_ribo,Yokohama.R開催の趣旨説明,http://yokohamar.github.io/Welcome-to-Yokohama.R/,NA,Yokohama.R
+1,2,u_ribo,Rいろはにほへと: インストールから簡単な処理まで,http://yokohamar.github.io/introduction-to-r/index.html,NA,Yokohama.R
+1,3,u_ribo,Rいろはにほへと: RStudioを使った実践,http://yokohamar.github.io/introduction-to-r/index2.html,NA,Yokohama.R
