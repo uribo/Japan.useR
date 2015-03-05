@@ -44,6 +44,7 @@ materials("Tokyo.R", number = 45, session = 5, browse = TRUE) # Open web browser
 | [Shiga.R](http://atnd.org/events/5939) | - | - |
 | [Tokyo.R](https://groups.google.com/forum/#!forum/r-study-tokyo) | [@yokkuns](http://twitter.com/yokkuns) | Tokyo, Tokyo |
 | [Tsukuba.R](http://seesaawiki.jp/w/syou6162/) | - | - |
+| Yamadai.R | kosugitti | Yamaguchi, Yamaguchi |
 | [Yokohama.R](https://github.com/YokohamaR/yokohama.r) | [@uribo](http://twitter.com/u_ribo) | Yokohama, Kanagawa |
 
 ## Acknowledgments
