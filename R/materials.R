@@ -1,13 +1,13 @@
 #' Broswe Japanese useR Community's material
 #' 
 #' @import dplyr
-#' @param community a character string. select useR community for one or some of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".
+#' @param community a character string. select useR community for one or some of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Kobe.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yamadai.R" or "Yokohama.R".
 #' @param number chose community's number.
 #' @param session return to specified session.
 #' @param browse a logical value indicading wheater the browse material.
 #' @examples materials(community = "Tokyo.R")
 #' @export
-materials <- function (community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yokohama.R"), 
+materials <- function (community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Kobe.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yamadai.R", "Yokohama.R"), 
                       number = NULL, session = NULL, browse = FALSE) {
   community <- match.arg(community, several.ok = TRUE)
   res <- filter(JRSlide, Community %in% community)

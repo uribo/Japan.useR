@@ -119,6 +119,10 @@ Number,Session,Speaker,Title,Slide,Topic,Community
 10,6,teuder,Rcppのすゝめ: C++を知らないあなたにおくる簡単ハイパフォーマンス・プログラミング,http://www.slideshare.net/masakitsuda940/rcpp-36654397,NA,Kashiwa.R
 10,7,mona,Rで統計のキホン,NA,NA,Kashiwa.R
 10,8,KeiHKojo,画像処理をRでやってみた,NA,NA,Kashiwa.R
+15,1,Hiroki,"Rデータ処理入門: Rの基本操作からdplyr, tidyr, ggplotの使い方",http://www.slideshare.net/kawaharahiroki/r-45226370,tutorial,Kobe.R
+15,2,Tomita Yoshiki,R in LifeScience: ヒートマップについて,http://www.slideshare.net/yoshikitomita1/r-in-life-science,visualize,Kobe.R
+15,3,tnoda_,Incanter ﾁｮｯﾄｼｯﾃﾙ: ClosureベースR風の統計解析環境 Incanterについて,http://www.slideshare.net/tnoda/kober-15-incanter,NA,Kobe.R
+15,4,NA,データ分析実践: 売り上げデータをまずは眺めてみる。,NA,NA,Kobe.R
 1,1,sakaue,Nagoya.R の趣旨説明,NA,NA,Nagoya.R
 1,2,sakaue,第１部：R 概論・R の基本操作,NA,NA,Nagoya.R
 1,3,sakaue,第２部：大量のデータを扱う、作図して保存する,NA,NA,Nagoya.R
@@ -671,6 +675,21 @@ Number,Session,Speaker,Title,Slide,Topic,Community
 8,4,twittoru,R OAuth for twitteR,NA,NA,Tsukuba.R
 8,5,yag_ays,R+ESS,http://www.slideshare.net/yag_ays/ess-2558366,NA,Tsukuba.R
 8,6,mickey24,Extend R with Rcpp!!!,http://www.slideshare.net/mickey24/extend-r-with-rcpp,NA,Tsukuba.R
+1,1,oshie,Rとは,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-1-17432022/5,tutorial,Yamadai.R
+1,2,福屋いずみ,Rの環境構築,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-1-17432022/18,system,Yamadai.R
+1,3,T_Yamane,RStudioの力をかりよう,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-1-17432022/25,NA,Yamadai.R
+1,4,大塚聡介,Rで計算,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-1-17432022/44,tutorial,Yamadai.R
+1,5,大塚聡介,Rの関数,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-1-17432022/50,tutorial,Yamadai.R
+1,6,kosugitti,Rの変数,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-1-17432022/59,tutorial,Yamadai.R
+1,7,kosugitti,データの整形,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-1-17432022/66,manipulation,Yamadai.R
+1,8,福屋いずみ,anovakunの使い方,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-2-17432177/4,statistics,Yamadai.R
+1,9,kosugitti,psychパッケージ,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-2-17432177/15,package,Yamadai.R
+1,10,kosugitti,Rでクラスター分析,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-2-17432177/29,statistics,Yamadai.R
+1,11,kosugitti,RでSEM,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-2-17432177/39,statistics,Yamadai.R
+1,12,kosugitti,Rでベイズ推定,http://www.slideshare.net/KojiKosugi/yamadair1-slideshare-2-17432177/54,modeling,Yamadai.R
+2,1,おしえたかし,自由で開かれているということ Rのもうひとつの顔,http://www.slideshare.net/takashioshie/yamadair2,NA,Yamadai.R
+3,1,kosugitti,function,http://www.slideshare.net/KojiKosugi/yamadai,NA,Yamadai.R
+4,1,おしえたかし,たかしのコマンドダービー,http://www.slideshare.net/takashioshie/yamadair4,NA,Yamadai.R
 1,1,u_ribo,Yokohama.R開催の趣旨説明,http://yokohamar.github.io/Welcome-to-Yokohama.R/,NA,Yokohama.R
 1,2,u_ribo,Rいろはにほへと: インストールから簡単な処理まで,http://yokohamar.github.io/introduction-to-r/index.html,NA,Yokohama.R
 1,3,u_ribo,Rいろはにほへと: RStudioを使った実践,http://yokohamar.github.io/introduction-to-r/index2.html,NA,Yokohama.R

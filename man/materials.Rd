@@ -5,11 +5,11 @@
 \title{Broswe Japanese useR Community's material}
 \usage{
 materials(community = c("HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R",
-  "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yokohama.R"),
+  "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yamadai.R", "Yokohama.R"),
   number = NULL, session = NULL, browse = FALSE)
 }
 \arguments{
-\item{community}{a character string. select useR community for one or some of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R" or "Yokohama.R".}
+\item{community}{a character string. select useR community for one or some of the strings "HijiyamaR", "Hiroshima.R", "Kashiwa.R", "Nagoya.R", "Osaka.R", "SappoRo.R", "Tokyo.R", "Tsukuba.R", "Yamadai.R" or "Yokohama.R".}
 
 \item{number}{chose community's number.}
 
