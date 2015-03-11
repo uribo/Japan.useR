@@ -30,10 +30,15 @@ View materials (arguments `browse` = TRUE)
 materials("Tokyo.R", number = 45, session = 5, browse = TRUE) # Open web browser
 ```
 
+### Shiny app
+
+soon.
+
 ## UseR! group
 
 | Name | Organizer | Place |
 |------|-----------|-------|
+| [Fukuoka.R](https://www.facebook.com/fukuoka.stat.R) | [@nonki1974](https://twitter.com/nonki1974) | Fukuoka, Fukuoka |
 | HiRoshima.R (HijiyamaR) |[@sakaue](http://twitter.com/sakaue) | Hiroshima, Hiroshima |
 | [Kashiwa.R](http://www14.atwiki.jp/kashiwar/) | [@Acafe_info](http://twitter.com/Acafe_info) | Kashiwa, Chiba |
 | [Kobe.R](http://kobexr.doorkeeper.jp) | [@h_kawahara](https://twitter.com/h_kawahara), [@florets1](https://twitter.com/florets1)  | Kobe, Kobe |
@@ -46,6 +51,8 @@ materials("Tokyo.R", number = 45, session = 5, browse = TRUE) # Open web browser
 | [Tsukuba.R](http://seesaawiki.jp/w/syou6162/) | - | - |
 | Yamadai.R | kosugitti | Yamaguchi, Yamaguchi |
 | [Yokohama.R](https://github.com/YokohamaR/yokohama.r) | [@uribo](http://twitter.com/u_ribo) | Yokohama, Kanagawa |
+
+## How to contribution
 
 ## Acknowledgments
 
