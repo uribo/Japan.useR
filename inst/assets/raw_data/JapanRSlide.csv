@@ -145,6 +145,10 @@ Number,Session,Speaker,Title,Slide,Topic,Community
 4,5,sakaue,Japan.R 開催のお知らせとお願い,NA,NA,Nagoya.R
 6,1,kos59125,モンテカルロサンプリング,http://www.slideshare.net/kos59125/ss-8878051,modeling,Nagoya.R
 9,1,kos59125,Rを起動するその前に,http://www.slideshare.net/kos59125/r-13800699,system,Nagoya.R
+13,1,田村祐,rlistパッケージのススメ,http://www.slideshare.net/yutamura1/20150321-nagoyar13-rlistcensored-46077296,package,Nagoya.R
+13,2,阿部大輔,applyを使おう,https://drive.google.com/file/d/0B5obiqfxcbRcSmVZV2lQOEVYZERPcG1IYXhqcWxESzlRdVY4/view,tutorial,Nagoya.R
+13,3,小島ますみ,メタ分析の行程を自動化するRスクリプトの作成,https://drive.google.com/file/d/0B5obiqfxcbRcODNPekpoSHAzRi03Zm8yUzBmbEJjWjYxZFdR/view?usp=sharing,NA,Nagoya.R
+13,4,M-Yoshino,タイタニック乗客の生死予測（Kaggleのデータを使用）,https://drive.google.com/file/d/0B5obiqfxcbRcbVBMUWZSeGNVdndnYUlRcU5qZ0pFVzlYMldv/view,modeling,Nagoya.R
 2,1,phosphor_m,初心者講習会資料,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjQ4NDc5OTA0N2I2MWI4OWQ,NA,Osaka.R
 2,2,phosphor_m,データハンドリング中級編,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjUxNzBiMTExNGI1YTE3MTA,NA,Osaka.R
 2,3,phosphor_m,プロット入門,https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxvc2FrYXJ3aWtpfGd4OjRiMWM2YTRhMmFkMDIyMDM,NA,Osaka.R
