@@ -2,7 +2,7 @@ Package: Japan.useR
 Type: Package
 Title: Japanese R user community materials and information datasets
 Version: 0.1.7-1
-Date: 2015-04-01
+Date@R: format(Sys.time(), '%Y-%m-%d')
 Authors@R: person("Shinya", "Uryu", email = paste("suika1127", "gmail.com", sep = "@"), role =
     c("aut", "cre"))
 Description: not yet
