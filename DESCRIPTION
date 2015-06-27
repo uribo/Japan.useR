@@ -9,9 +9,9 @@ Description: not yet
 URL: https://github.com/uribo/Japan.useR
 BugReports: https://github.com/uribo/Japan.useR/issues
 License: MIT
-Depends:
+Depends: 
     R (>= 3.1.0)
-Imports:
+Imports: 
     dplyr
 LazyData: TRUE
-    
+Suggests: testthat
